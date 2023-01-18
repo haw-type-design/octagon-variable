@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="period" format="2">
+  <advance width="224"/>
+  <unicode hex="002E"/>
+  <outline>
+    <contour>
+      <point x="15" y="50" type="line"/>
+      <point x="209" y="50" type="line"/>
+      <point x="209" y="69" type="line"/>
+      <point x="15" y="69" type="line"/>
+    </contour>
+    <contour>
+      <point x="30" y="50" type="line"/>
+      <point x="116" y="85" type="line"/>
+      <point x="104" y="103" type="line"/>
+      <point x="15" y="65" type="line"/>
+    </contour>
+    <contour>
+      <point x="194" y="50" type="line"/>
+      <point x="209" y="65" type="line"/>
+      <point x="119" y="104" type="line"/>
+      <point x="107" y="86" type="line"/>
+    </contour>
+    <contour>
+      <point x="15" y="50" type="line"/>
+      <point x="34" y="50" type="line"/>
+      <point x="34" y="254" type="line"/>
+      <point x="15" y="254" type="line"/>
+    </contour>
+    <contour>
+      <point x="104" y="88" type="line"/>
+      <point x="120" y="88" type="line"/>
+      <point x="120" y="104" type="line"/>
+      <point x="104" y="104" type="line"/>
+    </contour>
+    <contour>
+      <point x="190" y="50" type="line"/>
+      <point x="209" y="50" type="line"/>
+      <point x="209" y="254" type="line"/>
+      <point x="190" y="254" type="line"/>
+    </contour>
+    <contour>
+      <point x="105" y="89" type="line"/>
+      <point x="117" y="107" type="line"/>
+      <point x="30" y="254" type="line"/>
+      <point x="15" y="239" type="line"/>
+    </contour>
+    <contour>
+      <point x="19" y="235" type="line"/>
+      <point x="209" y="235" type="line"/>
+      <point x="209" y="254" type="line"/>
+      <point x="19" y="254" type="line"/>
+    </contour>
+    <contour>
+      <point x="119" y="89" type="line"/>
+      <point x="208" y="239" type="line"/>
+      <point x="193" y="254" type="line"/>
+      <point x="107" y="107" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="verticals" format="2">
+  <advance width="60"/>
+  <outline>
+    <contour>
+      <point x="20" y="0" type="line"/>
+      <point x="40" y="0" type="line"/>
+      <point x="40" y="600" type="line"/>
+      <point x="20" y="600" type="line"/>
+    </contour>
+  </outline>
+</glyph>

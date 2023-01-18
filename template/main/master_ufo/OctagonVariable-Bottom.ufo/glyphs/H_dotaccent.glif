@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hdotaccent" format="2">
+  <advance width="560"/>
+  <unicode hex="1E22"/>
+  <anchor x="285" y="50" name="bottom"/>
+  <anchor x="285" y="300" name="center"/>
+  <anchor x="280" y="720" name="top"/>
+  <anchor x="25" y="550" name="topleft"/>
+  <outline>
+    <component base="H"/>
+    <component base="dotaccentcomb.case" xOffset="226"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>H</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dotaccentcomb.case</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

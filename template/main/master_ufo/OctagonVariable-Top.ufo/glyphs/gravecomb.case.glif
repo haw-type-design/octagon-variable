@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gravecomb.case" format="2">
+  <anchor x="105" y="550" name="_top"/>
+  <anchor x="105" y="742" name="top"/>
+  <outline>
+    <contour>
+      <point x="205" y="566" type="line"/>
+      <point x="205" y="581" type="line"/>
+      <point x="11" y="581" type="line"/>
+      <point x="11" y="566" type="line"/>
+    </contour>
+    <contour>
+      <point x="13" y="566" type="line"/>
+      <point x="78" y="636" type="line"/>
+      <point x="70" y="650" type="line"/>
+      <point x="5" y="580" type="line"/>
+    </contour>
+    <contour>
+      <point x="205" y="566" type="line"/>
+      <point x="205" y="605" type="line"/>
+      <point x="185" y="605" type="line"/>
+      <point x="185" y="566" type="line"/>
+    </contour>
+    <contour>
+      <point x="198" y="580" type="line"/>
+      <point x="198" y="595" type="line"/>
+      <point x="77" y="650" type="line"/>
+      <point x="65" y="638" type="line"/>
+    </contour>
+    <contour>
+      <point x="20" y="566" type="line"/>
+      <point x="20" y="677" type="line"/>
+      <point x="5" y="677" type="line"/>
+      <point x="5" y="566" type="line"/>
+    </contour>
+    <contour>
+      <point x="205" y="591" type="line"/>
+      <point x="205" y="607" type="line"/>
+      <point x="20" y="677" type="line"/>
+      <point x="5" y="669" type="line"/>
+    </contour>
+    <contour>
+      <point x="72" y="635" type="line"/>
+      <point x="77" y="650" type="line"/>
+      <point x="15" y="674" type="line"/>
+      <point x="5" y="663" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>210</integer>
+    </dict>
+  </lib>
+</glyph>

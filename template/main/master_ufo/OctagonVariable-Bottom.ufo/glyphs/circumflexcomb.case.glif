@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcomb.case" format="2">
+  <anchor x="145" y="550" name="_top"/>
+  <anchor x="145" y="752" name="top"/>
+  <outline>
+    <contour>
+      <point x="265" y="569" type="line"/>
+      <point x="285" y="569" type="line"/>
+      <point x="213" y="663" type="line"/>
+      <point x="193" y="663" type="line"/>
+    </contour>
+    <contour>
+      <point x="19" y="569" type="line"/>
+      <point x="107" y="569" type="line"/>
+      <point x="107" y="584" type="line"/>
+      <point x="25" y="584" type="line"/>
+    </contour>
+    <contour>
+      <point x="5" y="569" type="line"/>
+      <point x="25" y="569" type="line"/>
+      <point x="97" y="663" type="line"/>
+      <point x="77" y="663" type="line"/>
+    </contour>
+    <contour>
+      <point x="30" y="577" type="line"/>
+      <point x="69" y="591" type="line"/>
+      <point x="63" y="602" type="line"/>
+      <point x="26" y="588" type="line"/>
+    </contour>
+    <contour>
+      <point x="102" y="570" type="line"/>
+      <point x="112" y="582" type="line"/>
+      <point x="69" y="603" type="line"/>
+      <point x="57" y="594" type="line"/>
+    </contour>
+    <contour>
+      <point x="94" y="569" type="line"/>
+      <point x="114" y="569" type="line"/>
+      <point x="148" y="612" type="line"/>
+      <point x="138" y="625" type="line"/>
+    </contour>
+    <contour>
+      <point x="145" y="610" type="line"/>
+      <point x="145" y="631" type="line"/>
+      <point x="122" y="663" type="line"/>
+      <point x="113" y="651" type="line"/>
+    </contour>
+    <contour>
+      <point x="176" y="569" type="line"/>
+      <point x="196" y="569" type="line"/>
+      <point x="152" y="625" type="line"/>
+      <point x="142" y="613" type="line"/>
+    </contour>
+    <contour>
+      <point x="82" y="650" type="line"/>
+      <point x="153" y="650" type="line"/>
+      <point x="153" y="663" type="line"/>
+      <point x="82" y="663" type="line"/>
+    </contour>
+    <contour>
+      <point x="136" y="650" type="line"/>
+      <point x="207" y="650" type="line"/>
+      <point x="207" y="663" type="line"/>
+      <point x="136" y="663" type="line"/>
+    </contour>
+    <contour>
+      <point x="183" y="569" type="line"/>
+      <point x="271" y="569" type="line"/>
+      <point x="265" y="584" type="line"/>
+      <point x="183" y="584" type="line"/>
+    </contour>
+    <contour>
+      <point x="188" y="570" type="line"/>
+      <point x="239" y="595" type="line"/>
+      <point x="220" y="602" type="line"/>
+      <point x="179" y="583" type="line"/>
+    </contour>
+    <contour>
+      <point x="54" y="594" type="line"/>
+      <point x="71" y="593" type="line"/>
+      <point x="125" y="663" type="line"/>
+      <point x="109" y="663" type="line"/>
+    </contour>
+    <contour>
+      <point x="145" y="610" type="line"/>
+      <point x="178" y="651" type="line"/>
+      <point x="170" y="663" type="line"/>
+      <point x="145" y="631" type="line"/>
+    </contour>
+    <contour>
+      <point x="223" y="590" type="line"/>
+      <point x="239" y="591" type="line"/>
+      <point x="181" y="663" type="line"/>
+      <point x="165" y="663" type="line"/>
+    </contour>
+    <contour>
+      <point x="260" y="577" type="line"/>
+      <point x="264" y="588" type="line"/>
+      <point x="228" y="602" type="line"/>
+      <point x="222" y="591" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>290</integer>
+    </dict>
+  </lib>
+</glyph>

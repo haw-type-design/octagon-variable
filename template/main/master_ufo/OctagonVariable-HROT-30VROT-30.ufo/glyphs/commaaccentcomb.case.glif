@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaaccentcomb.case" format="2">
+  <anchor x="62.0" y="0.0" name="_bottom"/>
+  <anchor x="67.0" y="123.0" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="5.0" y="-113.0" type="line"/>
+      <point x="22.0" y="-113.0" type="line"/>
+      <point x="22.0" y="-29.0" type="line"/>
+      <point x="5.0" y="-29.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="8.0" y="-31.0" type="line"/>
+      <point x="6.0" y="-86.0" type="line"/>
+      <point x="20.0" y="-78.0" type="line"/>
+      <point x="22.0" y="-23.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="8.0" y="-113.0" type="line"/>
+      <point x="59.0" y="-113.0" type="line"/>
+      <point x="63.0" y="-97.0" type="line"/>
+      <point x="13.0" y="-97.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="7.0" y="-106.0" type="line"/>
+      <point x="23.0" y="-106.0" type="line"/>
+      <point x="24.0" y="-73.0" type="line"/>
+      <point x="8.0" y="-73.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="5.0" y="-36.0" type="line"/>
+      <point x="102.0" y="-36.0" type="line"/>
+      <point x="102.0" y="-23.0" type="line"/>
+      <point x="5.0" y="-23.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="45.0" y="-113.0" type="line"/>
+      <point x="64.0" y="-113.0" type="line"/>
+      <point x="119.0" y="-23.0" type="line"/>
+      <point x="99.0" y="-23.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="6.0" y="-80.0" type="line"/>
+      <point x="15.0" y="-91.0" type="line"/>
+      <point x="101.0" y="-33.0" type="line"/>
+      <point x="90.0" y="-23.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>124</integer>
+    </dict>
+  </lib>
+</glyph>
