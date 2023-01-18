@@ -1,5 +1,5 @@
 {
-.appVersion = "3149";
+.appVersion = "3151";
 .formatVersion = 3;
 DisplayStrings = (
 "-,EEÉ/dieresiscomb.case 
@@ -30,7 +30,7 @@ OÓŎÔÖȮÒŐŌØÕŒPṖÞQRŔŘŖSŚŠŞŜȘṠTŤŢṪUÚŬ
 "444220@/.notdef",
 "/ogonekcomb.case",
 "/ogonekcomb.case ˛",
-FE8620
+"FEÆ8620"
 );
 axes = (
 {
@@ -3070,7 +3070,7 @@ unicode = 195;
 glyphname = AE;
 kernLeft = A;
 kernRight = E;
-lastChange = "2022-12-09 21:25:26 +0000";
+lastChange = "2023-01-18 09:45:14 +0000";
 layers = (
 {
 anchors = (
@@ -5386,10 +5386,10 @@ nodes = (
 {
 closed = 1;
 nodes = (
+(341,519,l),
 (355,595,l),
 (338,592,l),
-(326,521,l),
-(341,519,l)
+(326,521,l)
 );
 },
 {

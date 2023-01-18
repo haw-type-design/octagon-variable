@@ -222,10 +222,10 @@
       <point x="466" y="440" type="line"/>
     </contour>
     <contour>
+      <point x="326" y="521" type="line"/>
       <point x="341" y="519" type="line"/>
       <point x="355" y="595" type="line"/>
       <point x="338" y="592" type="line"/>
-      <point x="326" y="521" type="line"/>
     </contour>
     <contour>
       <point x="473" y="309" type="line"/>
