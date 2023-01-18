@@ -1,8 +1,8 @@
 var accessGrant;
 
 window.onload = function() {
-    var width = window.screen.width;
-    var height = window.screen.height;
+    var width = window.screen.availWidth;
+    var height = window.screen.availHeight;
     if (accessGrant == true)   {
         $(".overlay").css( "display", "none");
     }
@@ -78,8 +78,14 @@ function  run(){
             .then(permissionState => {
             if (permissionState === 'granted') {
                 window.addEventListener('deviceorientation', (e) => {
-                    const beta = e.beta;
-                    const gamma = e.gamma;
+                    if(screen.availHeight > screen.availWidth){
+                        const beta = e.beta;
+                        const gamma = e.gamma;
+                    } else {
+
+                        const beta = e.gamma;
+                        const gamma = e.beta;   
+                    }
                     if (beta < 45) {
                         $("#id1").css( "font-variation-settings", "'HROT'"+(gamma/1.5)+",'VROT'"+((45-beta)/1)+"");
                         $("#id2").css( "font-variation-settings", "'HROT'"+(gamma/1.5)+",'VROT' 0");
@@ -96,8 +102,14 @@ function  run(){
             .catch(console.error);
     } else {
         window.addEventListener('deviceorientation', (e) => {
-            const beta = e.beta;
-            const gamma = e.gamma;
+            if(screen.availHeight > screen.availWidth){
+                const beta = e.beta;
+                const gamma = e.gamma;
+            } else {
+
+                const beta = e.gamma;
+                const gamma = e.beta;   
+            }
             if (beta < 45) {
                 $("#id1").css( "font-variation-settings", "'HROT'"+(gamma/1.5)+",'VROT'"+((45-beta)/1)+"");
                 $("#id2").css( "font-variation-settings", "'HROT'"+(gamma/1.5)+",'VROT' 0");
@@ -120,8 +132,14 @@ function  startup(){
             if (permissionState === 'granted') {
                 $(".overlay").css( "display", "none");
                 window.addEventListener('deviceorientation', (e) => {
-                    const beta = e.beta;
-                    const gamma = e.gamma;
+                    if(screen.availHeight > screen.availWidth){
+                        const beta = e.beta;
+                        const gamma = e.gamma;
+                    } else {
+
+                        const beta = e.gamma;
+                        const gamma = e.beta;   
+                    }
                     if (beta < 45) {
                         $("#id1").css( "font-variation-settings", "'HROT'"+(gamma/1.5)+",'VROT'"+((45-beta)/1)+"");
                         $("#id2").css( "font-variation-settings", "'HROT'"+(gamma/1.5)+",'VROT' 0");
@@ -139,8 +157,14 @@ function  startup(){
     } else {
         $(".overlay").css( "display", "none");
         window.addEventListener('deviceorientation', (e) => {
-            const beta = e.beta;
-            const gamma = e.gamma;
+            if(screen.availHeight > screen.availWidth){
+                const beta = e.beta;
+                const gamma = e.gamma;
+            } else {
+
+                const beta = e.gamma;
+                const gamma = e.beta;   
+            }
             if (beta < 45) {
                 $("#id1").css( "font-variation-settings", "'HROT'"+(gamma/1.5)+",'VROT'"+((45-beta)/1)+"");
                 $("#id2").css( "font-variation-settings", "'HROT'"+(gamma/1.5)+",'VROT' 0");
