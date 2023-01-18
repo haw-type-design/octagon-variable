@@ -1,4 +1,4 @@
-# octagon-revival
+# Octagon variable
 
 A repository to host and collect student contributions to the collaborative octagon variable revival font project hosted with the second semester students in the *Basisjahr Type Design LAB* course @HAW Hamburg in 2022 under the guidance of Prof. Pierre Pané-Farré and Simon Thiefes.
 The octagon variable revival project is based on a wood type by Edwin Allen, which was first shown in George Nesbitt’s 1838 “First Premium Wood Types Cut by Machinery”.
