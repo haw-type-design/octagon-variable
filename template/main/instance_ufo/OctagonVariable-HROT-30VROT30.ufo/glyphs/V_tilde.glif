@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Vtilde" format="2">
+  <advance width="547.0"/>
+  <unicode hex="1E7C"/>
+  <anchor x="274.0" y="50.0" name="bottom"/>
+  <anchor x="274.0" y="651.0" name="top"/>
+  <outline>
+    <component base="V"/>
+    <component base="tildecomb.case" xOffset="163.0"/>
+  </outline>
+</glyph>

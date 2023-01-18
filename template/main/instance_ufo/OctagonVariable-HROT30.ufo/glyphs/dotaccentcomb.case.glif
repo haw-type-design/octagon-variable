@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotaccentcomb.case" format="2">
+  <anchor x="54" y="600" name="_top"/>
+  <anchor x="54" y="800" name="top"/>
+  <outline>
+    <contour>
+      <point x="7" y="626" type="line"/>
+      <point x="101" y="626" type="line"/>
+      <point x="101" y="641" type="line"/>
+      <point x="7" y="641" type="line"/>
+    </contour>
+    <contour>
+      <point x="20" y="629" type="line"/>
+      <point x="76" y="661" type="line"/>
+      <point x="68" y="675" type="line"/>
+      <point x="9" y="640" type="line"/>
+    </contour>
+    <contour>
+      <point x="5" y="626" type="line"/>
+      <point x="21" y="626" type="line"/>
+      <point x="21" y="714" type="line"/>
+      <point x="5" y="714" type="line"/>
+    </contour>
+    <contour>
+      <point x="66" y="662" type="line"/>
+      <point x="82" y="662" type="line"/>
+      <point x="82" y="678" type="line"/>
+      <point x="66" y="678" type="line"/>
+    </contour>
+    <contour>
+      <point x="87" y="626" type="line"/>
+      <point x="103" y="626" type="line"/>
+      <point x="103" y="714" type="line"/>
+      <point x="87" y="714" type="line"/>
+    </contour>
+    <contour>
+      <point x="11" y="699" type="line"/>
+      <point x="101" y="699" type="line"/>
+      <point x="101" y="714" type="line"/>
+      <point x="11" y="714" type="line"/>
+    </contour>
+    <contour>
+      <point x="20" y="711" type="line"/>
+      <point x="9" y="700" type="line"/>
+      <point x="68" y="665" type="line"/>
+      <point x="76" y="679" type="line"/>
+    </contour>
+    <contour>
+      <point x="88" y="629" type="line"/>
+      <point x="99" y="640" type="line"/>
+      <point x="80" y="675" type="line"/>
+      <point x="72" y="661" type="line"/>
+    </contour>
+    <contour>
+      <point x="88" y="711" type="line"/>
+      <point x="72" y="679" type="line"/>
+      <point x="80" y="665" type="line"/>
+      <point x="99" y="700" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>108</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hungarumlautcomb.case" format="2">
+  <anchor x="113.0" y="550.0" name="_top"/>
+  <anchor x="113.0" y="695.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="5.0" y="567.0" type="line"/>
+      <point x="19.0" y="567.0" type="line"/>
+      <point x="42.0" y="677.0" type="line"/>
+      <point x="28.0" y="677.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="33.0" y="672.0" type="line"/>
+      <point x="20.0" y="594.0" type="line"/>
+      <point x="32.0" y="602.0" type="line"/>
+      <point x="45.0" y="677.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="16.0" y="567.0" type="line"/>
+      <point x="56.0" y="567.0" type="line"/>
+      <point x="60.0" y="582.0" type="line"/>
+      <point x="21.0" y="582.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="13.0" y="574.0" type="line"/>
+      <point x="27.0" y="574.0" type="line"/>
+      <point x="36.0" y="602.0" type="line"/>
+      <point x="22.0" y="602.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="33.0" y="663.0" type="line"/>
+      <point x="97.0" y="663.0" type="line"/>
+      <point x="97.0" y="677.0" type="line"/>
+      <point x="33.0" y="677.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="48.0" y="567.0" type="line"/>
+      <point x="62.0" y="567.0" type="line"/>
+      <point x="109.0" y="677.0" type="line"/>
+      <point x="93.0" y="677.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="21.0" y="598.0" type="line"/>
+      <point x="32.0" y="591.0" type="line"/>
+      <point x="97.0" y="667.0" type="line"/>
+      <point x="88.0" y="677.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="116.0" y="567.0" type="line"/>
+      <point x="130.0" y="567.0" type="line"/>
+      <point x="153.0" y="677.0" type="line"/>
+      <point x="139.0" y="677.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="144.0" y="672.0" type="line"/>
+      <point x="131.0" y="594.0" type="line"/>
+      <point x="143.0" y="602.0" type="line"/>
+      <point x="156.0" y="677.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="127.0" y="567.0" type="line"/>
+      <point x="167.0" y="567.0" type="line"/>
+      <point x="171.0" y="582.0" type="line"/>
+      <point x="132.0" y="582.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="124.0" y="574.0" type="line"/>
+      <point x="138.0" y="574.0" type="line"/>
+      <point x="147.0" y="602.0" type="line"/>
+      <point x="133.0" y="602.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="144.0" y="663.0" type="line"/>
+      <point x="208.0" y="663.0" type="line"/>
+      <point x="208.0" y="677.0" type="line"/>
+      <point x="144.0" y="677.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="159.0" y="567.0" type="line"/>
+      <point x="173.0" y="567.0" type="line"/>
+      <point x="220.0" y="677.0" type="line"/>
+      <point x="204.0" y="677.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="132.0" y="598.0" type="line"/>
+      <point x="143.0" y="591.0" type="line"/>
+      <point x="208.0" y="667.0" type="line"/>
+      <point x="199.0" y="677.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>235</integer>
+    </dict>
+  </lib>
+</glyph>

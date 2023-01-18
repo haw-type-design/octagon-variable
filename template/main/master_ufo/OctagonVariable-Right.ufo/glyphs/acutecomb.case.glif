@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acutecomb.case" format="2">
+  <anchor x="95" y="600" name="_top"/>
+  <anchor x="95" y="802" name="top"/>
+  <outline>
+    <contour>
+      <point x="5" y="626" type="line"/>
+      <point x="179" y="626" type="line"/>
+      <point x="179" y="641" type="line"/>
+      <point x="5" y="641" type="line"/>
+    </contour>
+    <contour>
+      <point x="177" y="626" type="line"/>
+      <point x="185" y="640" type="line"/>
+      <point x="160" y="680" type="line"/>
+      <point x="148" y="672" type="line"/>
+    </contour>
+    <contour>
+      <point x="5" y="626" type="line"/>
+      <point x="25" y="626" type="line"/>
+      <point x="25" y="665" type="line"/>
+      <point x="5" y="665" type="line"/>
+    </contour>
+    <contour>
+      <point x="12" y="640" type="line"/>
+      <point x="162" y="669" type="line"/>
+      <point x="150" y="682" type="line"/>
+      <point x="12" y="655" type="line"/>
+    </contour>
+    <contour>
+      <point x="170" y="626" type="line"/>
+      <point x="185" y="626" type="line"/>
+      <point x="185" y="737" type="line"/>
+      <point x="170" y="737" type="line"/>
+    </contour>
+    <contour>
+      <point x="5" y="651" type="line"/>
+      <point x="185" y="726" type="line"/>
+      <point x="170" y="737" type="line"/>
+      <point x="5" y="667" type="line"/>
+    </contour>
+    <contour>
+      <point x="160" y="669" type="line"/>
+      <point x="185" y="725" type="line"/>
+      <point x="175" y="735" type="line"/>
+      <point x="150" y="682" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>190</integer>
+    </dict>
+  </lib>
+</glyph>

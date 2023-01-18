@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ytilde" format="2">
+  <advance width="573"/>
+  <unicode hex="1EF8"/>
+  <anchor x="290" y="50" name="bottom"/>
+  <anchor x="290" y="650" name="top"/>
+  <anchor x="17" y="550" name="topleft"/>
+  <outline>
+    <component base="Y"/>
+    <component base="tildecomb.case" xOffset="169"/>
+  </outline>
+</glyph>

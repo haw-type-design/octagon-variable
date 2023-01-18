@@ -1,0 +1,222 @@
+# Prefix: Languagesystems
+# automatic
+languagesystem DFLT dflt;
+
+languagesystem latn dflt;
+languagesystem latn AZE;
+languagesystem latn CRT;
+languagesystem latn KAZ;
+languagesystem latn TAT;
+languagesystem latn TRK;
+languagesystem latn ROM;
+languagesystem latn MOL;
+languagesystem latn CAT;
+
+
+feature aalt {
+# automatic
+feature rclt;
+feature locl;
+
+} aalt;
+
+feature rclt {
+sub a by A;
+sub aacute by Aacute;
+sub abreve by Abreve;
+sub acaron by Acaron;
+sub acircumflex by Acircumflex;
+sub adieresis by Adieresis;
+sub agrave by Agrave;
+sub amacron by Amacron;
+sub aogonek by Aogonek;
+sub aring by Aring;
+sub atilde by Atilde;
+sub ae by AE;
+sub aeacute by AEacute;
+sub b by B;
+sub bdotaccent by Bdotaccent;
+sub c by C;
+sub cacute by Cacute;
+sub ccaron by Ccaron;
+sub ccedilla by Ccedilla;
+sub ccircumflex by Ccircumflex;
+sub cdotaccent by Cdotaccent;
+sub d by D;
+sub eth by Eth;
+sub dcaron by Dcaron;
+sub dcedilla by Dcedilla;
+sub dcroat by Dcroat;
+sub ddotaccent by Ddotaccent;
+sub e by E;
+sub eacute by Eacute;
+sub ebreve by Ebreve;
+sub ecaron by Ecaron;
+sub ecircumflex by Ecircumflex;
+sub edieresis by Edieresis;
+sub edotaccent by Edotaccent;
+sub egrave by Egrave;
+sub eng by Eng;
+sub emacron by Emacron;
+sub eogonek by Eogonek;
+sub etilde by Etilde;
+sub f by F;
+sub g by G;
+sub gbreve by Gbreve;
+sub gcaron by Gcaron;
+sub gcircumflex by Gcircumflex;
+sub gcommaaccent by Gcommaaccent;
+sub gdotaccent by Gdotaccent;
+sub gmacron by Gmacron;
+sub h by H;
+sub hbar by Hbar;
+sub hcaron by Hcaron;
+sub hcircumflex by Hcircumflex;
+sub hdotaccent by Hdotaccent;
+sub i by I;
+sub idotbelow by Idotbelow;
+sub idotless by I;
+sub ij by IJ;
+sub iacute by Iacute;
+sub icaron by Icaron;
+sub icircumflex by Icircumflex;
+sub idieresis by Idieresis;
+sub idotaccent by Idotaccent;
+sub igrave by Igrave;
+sub imacron by Imacron;
+sub iogonek by 	Iogonek;
+sub itilde by Itilde;
+sub j by J;
+sub jcircumflex by Jcircumflex;
+sub k by K;
+sub kcaron by Kcaron;
+sub kcommaaccent by Kcommaaccent;
+sub l by L;
+sub lacute by Lacute;
+sub lcaron by Lcaron;
+sub lcommaaccent by Lcommaaccent;
+sub ldot by Ldot;
+sub lslash by Lslash;
+sub m by M;
+sub n by N;
+sub nacute by Nacute;
+sub ncaron by Ncaron;
+sub ncommaaccent by Ncommaaccent;
+sub ngrave by Ngrave;
+sub ntilde by Ntilde;
+sub o by O;
+sub oacute by Oacute;
+sub obreve by Obreve;
+sub ocaron by Ocaron;
+sub ocircumflex by Ocircumflex;
+sub odieresis by Odieresis;
+sub odotbelow by Odotbelow;
+sub odotaccent by Odotaccent;
+sub ograve by Ograve;
+sub ohungarumlaut by Ohungarumlaut;
+sub omacron by Omacron;
+sub oogonek by Oogonek;
+sub oslash by Oslash;
+sub oslashacute by Oslashacute;
+sub otilde by Otilde;
+sub oe by OE;
+sub p by P;
+sub pdotaccent by Pdotaccent;
+sub thorn by Thorn;
+sub q by Q;
+sub r by R;
+sub racute by Racute;
+sub rcaron by Rcaron;
+sub rcommaaccent by Rcommaaccent;
+sub s by S;
+sub sacute by Sacute;
+sub scaron by Scaron;
+sub scedilla by Scedilla;
+sub scircumflex by Scircumflex;
+sub scommaaccent by Scommaaccent;
+sub sdotaccent by Sdotaccent;
+sub t by T;
+sub tcaron by Tcaron;
+sub tcedilla by Tcedilla;
+sub tcommaaccent by Tcommaaccent;
+sub tdotaccent by Tdotaccent;
+sub u by U;
+sub uacute by Uacute;
+sub ubreve by Ubreve;
+sub ucaron by Ucaron;
+sub ucircumflex by Ucircumflex;
+sub udieresis by Udieresis;
+sub udotbelow by Udotbelow;
+sub ugrave by Ugrave;
+sub uhungarumlaut by Uhungarumlaut;
+sub umacron by Umacron;
+sub uogonek by Uogonek;
+sub uring by Uring;
+sub utilde by Utilde;
+sub v by V;
+sub vtilde by Vtilde;
+sub w by W;
+sub wacute by Wacute;
+sub wcircumflex by Wcircumflex;
+sub wdieresis by Wdieresis;
+sub wgrave by Wgrave;
+sub x by X;
+sub y by Y;
+sub yacute by Yacute;
+sub ycircumflex by Ycircumflex;
+sub ydieresis by Ydieresis;
+sub ygrave by Ygrave;
+sub ymacron by Ymacron;
+sub ytilde by Ytilde;
+sub z by Z;
+sub zacute by Zacute;
+sub zcaron by Zcaron;
+sub zdotaccent by Zdotaccent;
+
+
+
+## custom rules
+
+sub germandbls by S S;
+sub Germandbls by S S;
+
+} rclt;
+
+feature locl {
+# automatic
+lookup locl_latn_0 {
+	script latn;
+	language AZE;
+	sub i by idotaccent;
+	language CRT;
+	sub i by idotaccent;
+	language KAZ;
+	sub i by idotaccent;
+	language TAT;
+	sub i by idotaccent;
+	language TRK;
+	sub i by idotaccent;
+} locl_latn_0;
+
+lookup locl_latn_1 {
+	script latn;
+	language ROM;
+	sub Scedilla by Scommaaccent;
+	sub scedilla by scommaaccent;
+	sub Tcedilla by Tcommaaccent;
+	sub tcedilla by tcommaaccent;
+	language MOL;
+	sub Scedilla by Scommaaccent;
+	sub scedilla by scommaaccent;
+	sub Tcedilla by Tcommaaccent;
+	sub tcedilla by tcommaaccent;
+} locl_latn_1;
+
+lookup locl_latn_2 {
+	script latn;
+	language CAT;
+	sub  l' periodcentered' l by ldot;
+	sub  L' periodcentered' L by Ldot;
+} locl_latn_2;
+
+} locl;

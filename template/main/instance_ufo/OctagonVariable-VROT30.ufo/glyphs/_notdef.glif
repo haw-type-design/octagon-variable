@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name=".notdef" format="2">
+  <advance width="800"/>
+  <outline>
+    <component base="four" xScale="0.5" yScale="0.5" xOffset="61.0" yOffset="275.0"/>
+    <component base="zero" xScale="0.5" yScale="0.4" xOffset="280.0" yOffset="163.0"/>
+    <component base="four" xScale="0.5" yScale="0.5" xOffset="503.0" yOffset="25.0"/>
+  </outline>
+</glyph>

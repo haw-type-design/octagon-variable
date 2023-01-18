@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Lcaron" format="2">
+  <advance width="410.0"/>
+  <unicode hex="013D"/>
+  <anchor x="180.0" y="50.0" name="bottom"/>
+  <anchor x="30.0" y="300.0" name="center"/>
+  <anchor x="118.0" y="550.0" name="top"/>
+  <anchor x="215.0" y="550.0" name="topright"/>
+  <outline>
+    <contour>
+      <point x="265.0" y="450.0" type="line"/>
+      <point x="282.0" y="450.0" type="line"/>
+      <point x="282.0" y="544.0" type="line"/>
+      <point x="265.0" y="544.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="268.0" y="542.0" type="line"/>
+      <point x="276.0" y="527.0" type="line"/>
+      <point x="290.0" y="535.0" type="line"/>
+      <point x="282.0" y="550.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="268.0" y="450.0" type="line"/>
+      <point x="319.0" y="450.0" type="line"/>
+      <point x="323.0" y="466.0" type="line"/>
+      <point x="273.0" y="466.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="267.0" y="457.0" type="line"/>
+      <point x="283.0" y="457.0" type="line"/>
+      <point x="294.0" y="540.0" type="line"/>
+      <point x="278.0" y="540.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="265.0" y="537.0" type="line"/>
+      <point x="362.0" y="537.0" type="line"/>
+      <point x="362.0" y="550.0" type="line"/>
+      <point x="265.0" y="550.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="305.0" y="450.0" type="line"/>
+      <point x="324.0" y="450.0" type="line"/>
+      <point x="379.0" y="550.0" type="line"/>
+      <point x="359.0" y="550.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="276.0" y="536.0" type="line"/>
+      <point x="285.0" y="525.0" type="line"/>
+      <point x="361.0" y="540.0" type="line"/>
+      <point x="350.0" y="550.0" type="line"/>
+    </contour>
+    <component base="L"/>
+  </outline>
+</glyph>

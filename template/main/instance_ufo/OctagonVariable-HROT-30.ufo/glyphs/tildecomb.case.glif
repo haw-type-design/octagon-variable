@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tildecomb.case" format="2">
+  <anchor x="111" y="600" name="_top"/>
+  <anchor x="111" y="710" name="top"/>
+  <outline>
+    <contour>
+      <point x="116" y="626" type="line"/>
+      <point x="129" y="633" type="line"/>
+      <point x="79" y="710" type="line"/>
+      <point x="66" y="704" type="line"/>
+    </contour>
+    <contour>
+      <point x="114" y="639" type="line"/>
+      <point x="116" y="626" type="line"/>
+      <point x="189" y="626" type="line"/>
+      <point x="203" y="639" type="line"/>
+    </contour>
+    <contour>
+      <point x="120" y="636" type="line"/>
+      <point x="131" y="643" type="line"/>
+      <point x="93" y="703" type="line"/>
+      <point x="82" y="697" type="line"/>
+    </contour>
+    <contour>
+      <point x="59" y="696" type="line"/>
+      <point x="134" y="696" type="line"/>
+      <point x="131" y="710" type="line"/>
+      <point x="59" y="710" type="line"/>
+    </contour>
+    <contour>
+      <point x="21" y="626" type="line"/>
+      <point x="68" y="710" type="line"/>
+      <point x="51" y="710" type="line"/>
+      <point x="5" y="626" type="line"/>
+    </contour>
+    <contour>
+      <point x="78" y="626" type="line"/>
+      <point x="109" y="663" type="line"/>
+      <point x="99" y="672" type="line"/>
+      <point x="59" y="626" type="line"/>
+    </contour>
+    <contour>
+      <point x="59" y="688" type="line"/>
+      <point x="48" y="671" type="line"/>
+      <point x="64" y="627" type="line"/>
+      <point x="78" y="637" type="line"/>
+    </contour>
+    <contour>
+      <point x="67" y="639" type="line"/>
+      <point x="24" y="639" type="line"/>
+      <point x="18" y="626" type="line"/>
+      <point x="67" y="626" type="line"/>
+    </contour>
+    <contour>
+      <point x="56" y="672" type="line"/>
+      <point x="77" y="702" type="line"/>
+      <point x="64" y="709" type="line"/>
+      <point x="40" y="673" type="line"/>
+    </contour>
+    <contour>
+      <point x="49" y="686" type="line"/>
+      <point x="24" y="643" type="line"/>
+      <point x="30" y="632" type="line"/>
+      <point x="57" y="675" type="line"/>
+    </contour>
+    <contour>
+      <point x="203" y="710" type="line"/>
+      <point x="186" y="626" type="line"/>
+      <point x="203" y="626" type="line"/>
+      <point x="217" y="710" type="line"/>
+    </contour>
+    <contour>
+      <point x="161" y="710" type="line"/>
+      <point x="111" y="635" type="line"/>
+      <point x="124" y="628" type="line"/>
+      <point x="179" y="710" type="line"/>
+    </contour>
+    <contour>
+      <point x="158" y="673" type="line"/>
+      <point x="171" y="676" type="line"/>
+      <point x="174" y="708" type="line"/>
+      <point x="161" y="699" type="line"/>
+    </contour>
+    <contour>
+      <point x="166" y="697" type="line"/>
+      <point x="199" y="697" type="line"/>
+      <point x="205" y="710" type="line"/>
+      <point x="166" y="710" type="line"/>
+    </contour>
+    <contour>
+      <point x="163" y="684" type="line"/>
+      <point x="132" y="636" type="line"/>
+      <point x="145" y="629" type="line"/>
+      <point x="174" y="678" type="line"/>
+    </contour>
+    <contour>
+      <point x="168" y="671" type="line"/>
+      <point x="210" y="693" type="line"/>
+      <point x="203" y="704" type="line"/>
+      <point x="161" y="681" type="line"/>
+    </contour>
+    <contour>
+      <point x="146" y="675" type="line"/>
+      <point x="157" y="684" type="line"/>
+      <point x="131" y="710" type="line"/>
+      <point x="121" y="701" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>222</integer>
+    </dict>
+  </lib>
+</glyph>

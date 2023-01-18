@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ogonekcomb.case" format="2">
+  <anchor x="85" y="18" name="_ogonek"/>
+  <outline>
+    <contour>
+      <point x="19" y="-82" type="line"/>
+      <point x="78" y="18" type="line"/>
+      <point x="58" y="18" type="line"/>
+      <point x="5" y="-70" type="line"/>
+    </contour>
+    <contour>
+      <point x="32" y="-126" type="line"/>
+      <point x="55" y="-113" type="line"/>
+      <point x="19" y="-76" type="line"/>
+      <point x="5" y="-91" type="line"/>
+    </contour>
+    <contour>
+      <point x="32" y="-126" type="line"/>
+      <point x="114" y="-126" type="line"/>
+      <point x="114" y="-107" type="line"/>
+      <point x="47" y="-107" type="line"/>
+    </contour>
+    <contour>
+      <point x="5" y="-91" type="line"/>
+      <point x="104" y="-91" type="line"/>
+      <point x="104" y="-70" type="line"/>
+      <point x="5" y="-70" type="line"/>
+    </contour>
+    <contour>
+      <point x="91" y="-120" type="line"/>
+      <point x="102" y="-115" type="line"/>
+      <point x="104" y="-73" type="line"/>
+      <point x="91" y="-86" type="line"/>
+    </contour>
+    <contour>
+      <point x="26" y="-81" type="line"/>
+      <point x="82" y="-40" type="line"/>
+      <point x="76" y="-24" type="line"/>
+      <point x="19" y="-64" type="line"/>
+    </contour>
+    <contour>
+      <point x="104" y="-89" type="line"/>
+      <point x="102" y="-47" type="line"/>
+      <point x="91" y="-38" type="line"/>
+      <point x="91" y="-76" type="line"/>
+    </contour>
+    <contour>
+      <point x="97" y="-126" type="line"/>
+      <point x="114" y="-126" type="line"/>
+      <point x="114" y="-36" type="line"/>
+      <point x="97" y="-36" type="line"/>
+    </contour>
+    <contour>
+      <point x="54" y="-51" type="line"/>
+      <point x="114" y="-51" type="line"/>
+      <point x="114" y="-36" type="line"/>
+      <point x="65" y="-36" type="line"/>
+    </contour>
+    <contour>
+      <point x="62" y="-43" type="line"/>
+      <point x="80" y="-43" type="line"/>
+      <point x="103" y="18" type="line"/>
+      <point x="85" y="18" type="line"/>
+    </contour>
+    <contour>
+      <point x="59" y="0" type="line"/>
+      <point x="94" y="0" type="line"/>
+      <point x="94" y="18" type="line"/>
+      <point x="59" y="18" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>119</integer>
+    </dict>
+  </lib>
+</glyph>
