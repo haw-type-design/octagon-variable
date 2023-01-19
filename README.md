@@ -1,5 +1,5 @@
 # Octagon Variable
-This is the repository of the educational type design project *Octagon Variable* developed at the Design department @ HAW Hamburg in 2022.
+This is the repository of the educational type design project *Octagon Variable* developed at the HAW Hamburg in 2022.
 
 ![IMAGE_DESCRIPTION](images/process.png)
 
@@ -7,6 +7,7 @@ This is the repository of the educational type design project *Octagon Variable*
 Based on *Octagon* – a wood type first shown in George Nesbitt’s *First Premium Wood Types Cut by Machinery* in 1838 – *Octagon Variable* is a reimagination of the original design by Edwin Allen as variable font in which the already present spatial illusions are pushed further. It was collaboratively redrawn with students at the design department of the Hochschule für Angewandte Wissenschaften Hamburg in 2022 as part of a first year type design introduction class under the guidance of Prof. Pierre Pané-Farré and Simon Thiefes.
 
 ![IMAGE_DESCRIPTION](images/original-octagon-photo-by-david-shields.jpg)
+The original printing blocks held at the *Rob Roy Kelly Collection* measures 8 line in size and was produced with the end-cut method. (Photo: © David Shields)
 
 ## Participating students
 Alexander Royter, Emma Schmalisch, Felix Willnauer, Friederike Temme, Greta Wachholz, Jason Tsiakas, Julia Baskal, Julia Schmidt, Kaja Wetzel, Kateryna Shelevytska, Lara Tamminga, Nina Vierke Liyani, Sania Salem, Sarah-Ann Röhlen, Sofiya Slyusarenko, Stina Scholz, Vanessa Schneider, Zoe Rygus with contributions by Pierre Pané-Farré and Simon Thiefes.
@@ -26,7 +27,7 @@ On the occasion of its release a 16-page printed specimen has been designed and 
 * Andy Clymer’s *Tilt Typeface* https://github.com/andyclymer/Tilt-Typeface
 
 ## License
-*Octagon Variable* is made available under the Open Font License.
+*Octagon Variable* is made available under the [Open Font License](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL). See LICENSE.txt for licensing information.
 
 ## Acknowledgements
 We are particularly grateful to David Shields & Nick Sherman, who provided photographic imagery of  original specimen pages and the surviving wood type of *Octagon*.
