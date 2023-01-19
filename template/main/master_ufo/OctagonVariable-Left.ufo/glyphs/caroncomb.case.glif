@@ -41,7 +41,7 @@
     </contour>
     <contour>
       <point x="148" y="679" type="line"/>
-      <point x="142" y="658" type="line"/>
+      <point x="139" y="658" type="line"/>
       <point x="146" y="626" type="line"/>
       <point x="155" y="638" type="line"/>
     </contour>
@@ -76,7 +76,7 @@
       <point x="111" y="706" type="line"/>
     </contour>
     <contour>
-      <point x="189" y="677" type="line"/>
+      <point x="191" y="677" type="line"/>
       <point x="172" y="678" type="line"/>
       <point x="134" y="626" type="line"/>
       <point x="152" y="626" type="line"/>
@@ -88,15 +88,15 @@
       <point x="145" y="658" type="line"/>
     </contour>
     <contour>
-      <point x="59" y="683" type="line"/>
-      <point x="47" y="682" type="line"/>
+      <point x="63" y="683" type="line"/>
+      <point x="45" y="687" type="line"/>
       <point x="82" y="626" type="line"/>
       <point x="98" y="626" type="line"/>
     </contour>
     <contour>
       <point x="30" y="712" type="line"/>
       <point x="26" y="701" type="line"/>
-      <point x="61" y="673" type="line"/>
+      <point x="62" y="668" type="line"/>
       <point x="63" y="680" type="line"/>
     </contour>
   </outline>
