@@ -109,8 +109,8 @@
     </contour>
     <contour>
       <point x="526.0" y="488.0" type="line"/>
-      <point x="550.0" y="523.0" type="line"/>
-      <point x="541.0" y="538.0" type="line"/>
+      <point x="556.0" y="521.0" type="line"/>
+      <point x="547.0" y="536.0" type="line"/>
       <point x="516.0" y="506.0" type="line"/>
     </contour>
     <contour>
@@ -122,14 +122,14 @@
     <contour>
       <point x="303.0" y="493.0" type="line"/>
       <point x="312.0" y="512.0" type="line"/>
-      <point x="153.0" y="551.0" type="line"/>
-      <point x="142.0" y="536.0" type="line"/>
+      <point x="153.0" y="546.0" type="line"/>
+      <point x="142.0" y="531.0" type="line"/>
     </contour>
     <contour>
       <point x="515.0" y="491.0" type="line"/>
       <point x="525.0" y="509.0" type="line"/>
-      <point x="407.0" y="541.0" type="line"/>
-      <point x="398.0" y="526.0" type="line"/>
+      <point x="408.0" y="537.0" type="line"/>
+      <point x="399.0" y="522.0" type="line"/>
     </contour>
   </outline>
 </glyph>

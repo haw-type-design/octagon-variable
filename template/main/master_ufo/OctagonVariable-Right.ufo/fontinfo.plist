@@ -35,14 +35,18 @@
     <integer>0</integer>
     <key>openTypeHeadCreated</key>
     <string>2022/09/06 09:58:40</string>
+    <key>openTypeNameDescription</key>
+    <string>“Octagon”, a contrasted sans serif design by Edwin Allen originally shown 1838 as wood type in George Nesbitt’s “First Premium Wood Types, Cut By Machinery.” was reimagined as a variable font, collaboratively redrawn and extended with the students at the Hochschule für Angewandte Wissenschaften in Hamburg in 2022 as part of a first year type design introduction class. “Octagon Variable” is an educational type design project developed by Prof. Pierre Pané-Farré and Simon Thiefes at the design department of the Hochschule für Angewandte Wissenschaften Hamburg, Finkenau 35, 22081 Hamburg. </string>
     <key>openTypeNameDesigner</key>
-    <string>Alexander Royter, Emma Schmalisch, Felix Willnauer, Friederike Temme, Greta Wachholz, Jason Tsiakas, Julia Baskal, Julia Schmidt, Kaja Wetzel, Kateryna Shelevytska, Lara Tamminga, Nina Vierke Liyani, Sania Salem, Sarah-Ann Röhlen, Sofiya Slyusarenko, Stina Scholz, Syeda Maya Zaheer, Vanessa Schneider, Zoe Rygus</string>
+    <string>Alexander Royter, Emma Schmalisch, Felix Willnauer, Friederike Temme, Greta Wachholz, Jason Tsiakas, Julia Baskal, Julia Schmidt, Kaja Wetzel, Kateryna Shelevytska, Lara Tamminga, Nina Vierke Liyani, Sania Salem, Sarah-Ann Röhlen, Sofiya Slyusarenko, Stina Scholz, Vanessa Schneider, Zoe Rygus with contributions by Pierre Pané-Farré and Simon Thiefes.</string>
     <key>openTypeNameDesignerURL</key>
-    <string>https://www.haw-hamburg.de/</string>
+    <string>https://haw-type-design.github.io</string>
     <key>openTypeNameLicense</key>
     <string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL</string>
     <key>openTypeNameLicenseURL</key>
     <string>https://scripts.sil.org/OFL</string>
+    <key>openTypeNameManufacturer</key>
+    <string>Type Design @ HAW Hamburg </string>
     <key>openTypeNameSampleText</key>
     <string>Octagon Variable</string>
     <key>openTypeOS2Type</key>
