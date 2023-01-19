@@ -6,6 +6,8 @@ Based on *Octagon* – a wood type first shown in George Nesbitt’s *First Prem
 
 ![IMAGE_DESCRIPTION](images/original-octagon-photo-by-david-shields.jpg)
 
+![IMAGE_DESCRIPTION](images/process2.JPG) 
+
 ![IMAGE_DESCRIPTION](images/process.png)
 
 ## Participating students
