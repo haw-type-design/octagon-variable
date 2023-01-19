@@ -1,5 +1,5 @@
 # Octagon Variable
-This is the repository of the collaborative type design project *Octagon Variable* made at the design department of the HAW Hamburg in 2022.
+This is the repository of the educational type design project *Octagon Variable* developed at the Design department @ HAW Hamburg in 2022.
 
 ![IMAGE_DESCRIPTION](images/process.png)
 
@@ -26,7 +26,7 @@ On the occasion of its release a 16-page printed specimen has been designed and 
 * Andy Clymer’s *Tilt Typeface* https://github.com/andyclymer/Tilt-Typeface
 
 ## License
-*Octagon Variable* is made available under the Open Font License. *Octagon Variable*  an educational type design project developed by Prof. Pierre Pané-Farré and Simon Thiefes at the design department of the Hochschule für Angewandte Wissenschaften Hamburg, Finkenau 35, 22081 Hamburg. 
+*Octagon Variable* is made available under the Open Font License.
 
 ## Acknowledgements
 We are particularly grateful to David Shields & Nick Sherman, who provided photographic imagery of  original specimen pages and the surviving wood type of *Octagon*.
