@@ -6,12 +6,10 @@ Based on *Octagon* – a wood type first shown in George Nesbitt’s *First Prem
 
 ![IMAGE_DESCRIPTION](images/original-octagon-photo-by-david-shields.jpg)
 
-![IMAGE_DESCRIPTION](images/process2.JPG) 
-
-![IMAGE_DESCRIPTION](images/process.png)
-
 ## Participating students
 Alexander Royter, Emma Schmalisch, Felix Willnauer, Friederike Temme, Greta Wachholz, Jason Tsiakas, Julia Baskal, Julia Schmidt, Kaja Wetzel, Kateryna Shelevytska, Lara Tamminga, Nina Vierke Liyani, Sania Salem, Sarah-Ann Röhlen, Sofiya Slyusarenko, Stina Scholz, Vanessa Schneider, Zoe Rygus with contributions by Pierre Pané-Farré and Simon Thiefes.
+
+![IMAGE_DESCRIPTION](images/process.png)
 
 ## Specimen (Web)
 See and try *Octagon Variable* online at https://haw-type-design.github.io/octagon-variable/
