@@ -30,7 +30,7 @@ OÓŎÔÖȮÒŐŌØÕŒPṖÞQRŔŘŖSŚŠŞŜȘṠTŤŢṪUÚŬ
 "444220@/.notdef",
 "/ogonekcomb.case",
 "/ogonekcomb.case ˛",
-"FE/ogonekcomb.case Æ8620"
+"FE/ogonekcomb.case Æ8/cedillacomb.case 620"
 );
 axes = (
 {
@@ -160884,7 +160884,7 @@ metricRight = "=5";
 },
 {
 glyphname = cedillacomb.case;
-lastChange = "2022-12-09 11:33:22 +0000";
+lastChange = "2023-01-19 10:52:21 +0000";
 layers = (
 {
 anchors = (
@@ -161451,10 +161451,10 @@ nodes = (
 {
 closed = 1;
 nodes = (
-(96,10,l),
-(91,25,l),
-(11,-14,l),
-(23,-28,l)
+(78,28,l),
+(78,47,l),
+(5,3,l),
+(19,-7,l)
 );
 },
 {
@@ -161478,10 +161478,10 @@ nodes = (
 {
 closed = 1;
 nodes = (
-(78,28,l),
-(78,47,l),
-(5,3,l),
-(19,-7,l)
+(96,10,l),
+(91,25,l),
+(11,-14,l),
+(23,-28,l)
 );
 },
 {
