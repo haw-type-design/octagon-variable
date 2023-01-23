@@ -392,6 +392,9 @@
       <string>quotesingle</string>
       <string>at</string>
       <string>ampersand</string>
+      <string>plus</string>
+      <string>minus</string>
+      <string>equal</string>
       <string>asciitilde</string>
       <string>asciicircum</string>
       <string>dieresiscomb.case</string>

@@ -434,6 +434,8 @@
     <string>eng.glif</string>
     <key>eogonek</key>
     <string>eogonek.glif</string>
+    <key>equal</key>
+    <string>equal.glif</string>
     <key>eth</key>
     <string>eth.glif</string>
     <key>etilde</key>
@@ -538,6 +540,8 @@
     <string>macron.glif</string>
     <key>macroncomb.case</key>
     <string>macroncomb.case.glif</string>
+    <key>minus</key>
+    <string>minus.glif</string>
     <key>n</key>
     <string>n.glif</string>
     <key>nacute</key>
@@ -600,6 +604,8 @@
     <string>period.glif</string>
     <key>periodcentered</key>
     <string>periodcentered.glif</string>
+    <key>plus</key>
+    <string>plus.glif</string>
     <key>q</key>
     <string>q.glif</string>
     <key>question</key>
