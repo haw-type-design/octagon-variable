@@ -30,7 +30,8 @@ OÓŎÔÖȮÒŐŌØÕŒPṖÞQRŔŘŖSŚŠŞŜȘṠTŤŢṪUÚŬ
 "444220@/.notdef",
 "/ogonekcomb.case",
 "/ogonekcomb.case ˛",
-"FE/ogonekcomb.case Æ8ŒN/caroncomb.case/cedillacomb.case 620"
+"FE/ogonekcomb.case Æ8ŒN/caroncomb.case/cedillacomb.case 620",
+"9=9"
 );
 axes = (
 {
@@ -148715,6 +148716,85 @@ width = 622;
 metricLeft = "=10";
 metricRight = "=10";
 unicode = 38;
+},
+{
+glyphname = equal;
+lastChange = "2023-01-23 09:40:19 +0000";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (0,80);
+ref = endash;
+},
+{
+pos = (0,-80);
+ref = endash;
+}
+);
+width = 461;
+},
+{
+layerId = m002;
+shapes = (
+{
+pos = (0,60);
+ref = endash;
+},
+{
+pos = (0,-60);
+ref = endash;
+}
+);
+width = 461;
+},
+{
+layerId = m003;
+shapes = (
+{
+pos = (0,60);
+ref = endash;
+},
+{
+pos = (0,-60);
+ref = endash;
+}
+);
+width = 461;
+},
+{
+layerId = m004;
+shapes = (
+{
+pos = (0,80);
+ref = endash;
+},
+{
+pos = (0,-80);
+ref = endash;
+}
+);
+width = 441;
+},
+{
+layerId = m005;
+shapes = (
+{
+pos = (0,80);
+ref = endash;
+},
+{
+pos = (0,-80);
+ref = endash;
+}
+);
+width = 441;
+}
+);
+metricLeft = "=endash";
+metricRight = "=endash";
+unicode = 61;
 },
 {
 glyphname = asciitilde;
