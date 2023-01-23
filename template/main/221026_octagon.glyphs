@@ -31,7 +31,7 @@ OÓŎÔÖȮÒŐŌØÕŒPṖÞQRŔŘŖSŚŠŞŜȘṠTŤŢṪUÚŬ
 "/ogonekcomb.case",
 "/ogonekcomb.case ˛",
 "FE/ogonekcomb.case Æ8ŒN/caroncomb.case/cedillacomb.case 620",
-"9=9"
+"−"
 );
 axes = (
 {
@@ -148716,6 +148716,60 @@ width = 622;
 metricLeft = "=10";
 metricRight = "=10";
 unicode = 38;
+},
+{
+glyphname = minus;
+lastChange = "2023-01-23 09:41:14 +0000";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = endash;
+}
+);
+width = 461;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = endash;
+}
+);
+width = 461;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = endash;
+}
+);
+width = 461;
+},
+{
+layerId = m004;
+shapes = (
+{
+ref = endash;
+}
+);
+width = 441;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = endash;
+}
+);
+width = 441;
+}
+);
+metricLeft = "=endash";
+metricRight = "=endash";
+unicode = 8722;
 },
 {
 glyphname = equal;
