@@ -28,7 +28,7 @@ OÓŎÔÖȮÒŐŌØÕŒPṖÞQRŔŘŖSŚŠŞŜȘṠTŤŢṪUÚŬ
 "¡H!",
 "Ĭ",
 "¡IĄ!",
-"ṅṄMṛẓẒṚḍḌṁṀḟḞẹẸḷḶḥḤ"
+"ṅṄMṛṣṢẓẒṚḍḌṁṀḟḞẹẸḷḶḥḤ"
 );
 axes = (
 {
@@ -207,6 +207,7 @@ sub scedilla by Scedilla;
 sub scircumflex by Scircumflex;
 sub scommaaccent by Scommaaccent;
 sub sdotaccent by Sdotaccent;
+sub sdotbelow by Sdotbelow;
 sub t by T;
 sub tcaron by Tcaron;
 sub tcedilla by Tcedilla;
@@ -77303,6 +77304,77 @@ width = 411;
 unicode = 7776;
 },
 {
+glyphname = Sdotbelow;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = S;
+},
+{
+pos = (167,0);
+ref = dotbelowcomb.case;
+}
+);
+width = 441;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = S;
+},
+{
+pos = (165,0);
+ref = dotbelowcomb.case;
+}
+);
+width = 437;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = S;
+},
+{
+pos = (165,0);
+ref = dotbelowcomb.case;
+}
+);
+width = 437;
+},
+{
+layerId = m004;
+shapes = (
+{
+ref = S;
+},
+{
+pos = (152,0);
+ref = dotbelowcomb.case;
+}
+);
+width = 411;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = S;
+},
+{
+pos = (152,0);
+ref = dotbelowcomb.case;
+}
+);
+width = 411;
+}
+);
+unicode = 7778;
+},
+{
 glyphname = Germandbls;
 layers = (
 {
@@ -95698,6 +95770,32 @@ width = 600;
 }
 );
 unicode = 7777;
+},
+{
+glyphname = sdotbelow;
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+},
+{
+layerId = m003;
+width = 600;
+},
+{
+layerId = m004;
+width = 600;
+},
+{
+layerId = m005;
+width = 600;
+}
+);
+unicode = 7779;
 },
 {
 glyphname = germandbls;
