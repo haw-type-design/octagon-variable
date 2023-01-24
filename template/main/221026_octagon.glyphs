@@ -28,7 +28,7 @@ OÓŎÔÖȮÒŐŌØÕŒPṖÞQRŔŘŖSŚŠŞŜȘṠTŤŢṪUÚŬ
 "¡H!",
 "Ĭ",
 "¡IĄ!",
-"ṅṄMṁṀḟḞẹẸḷḶḥḤ"
+"ṅṄMṛṚḍḌṁṀḟḞẹẸḷḶḥḤ"
 );
 axes = (
 {
@@ -106,6 +106,7 @@ sub ccedilla by Ccedilla;
 sub ccircumflex by Ccircumflex;
 sub cdotaccent by Cdotaccent;
 sub d by D;
+sub ddotaccent by Ddotaccent;
 sub eth by Eth;
 sub dcaron by Dcaron;
 sub dcedilla by Dcedilla;
@@ -198,6 +199,7 @@ sub r by R;
 sub racute by Racute;
 sub rcaron by Rcaron;
 sub rcommaaccent by Rcommaaccent;
+sub rdotbelow by Rdotbelow;
 sub s by S;
 sub sacute by Sacute;
 sub scaron by Scaron;
@@ -18602,6 +18604,77 @@ width = 529;
 }
 );
 unicode = 7690;
+},
+{
+glyphname = Ddotbelow;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = D;
+},
+{
+pos = (209,0);
+ref = dotbelowcomb.case;
+}
+);
+width = 580;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = D;
+},
+{
+pos = (209,0);
+ref = dotbelowcomb.case;
+}
+);
+width = 580;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = D;
+},
+{
+pos = (209,0);
+ref = dotbelowcomb.case;
+}
+);
+width = 580;
+},
+{
+layerId = m004;
+shapes = (
+{
+ref = D;
+},
+{
+pos = (193,0);
+ref = dotbelowcomb.case;
+}
+);
+width = 529;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = D;
+},
+{
+pos = (193,0);
+ref = dotbelowcomb.case;
+}
+);
+width = 529;
+}
+);
+unicode = 7692;
 },
 {
 glyphname = E;
@@ -74418,6 +74491,77 @@ width = 525;
 unicode = 342;
 },
 {
+glyphname = Rdotbelow;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = R;
+},
+{
+pos = (246,0);
+ref = dotbelowcomb.case;
+}
+);
+width = 594;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = R;
+},
+{
+pos = (246,0);
+ref = dotbelowcomb.case;
+}
+);
+width = 594;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = R;
+},
+{
+pos = (246,0);
+ref = dotbelowcomb.case;
+}
+);
+width = 594;
+},
+{
+layerId = m004;
+shapes = (
+{
+ref = R;
+},
+{
+pos = (216,0);
+ref = dotbelowcomb.case;
+}
+);
+width = 535;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = R;
+},
+{
+pos = (211,0);
+ref = dotbelowcomb.case;
+}
+);
+width = 525;
+}
+);
+unicode = 7770;
+},
+{
 glyphname = S;
 kernLeft = S;
 kernRight = S;
@@ -92955,6 +93099,32 @@ width = 600;
 unicode = 7691;
 },
 {
+glyphname = ddotbelow;
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+},
+{
+layerId = m003;
+width = 600;
+},
+{
+layerId = m004;
+width = 600;
+},
+{
+layerId = m005;
+width = 600;
+}
+);
+unicode = 7693;
+},
+{
 glyphname = e;
 lastChange = "2022-10-18 12:20:00 +0000";
 layers = (
@@ -95247,6 +95417,32 @@ width = 600;
 }
 );
 unicode = 343;
+},
+{
+glyphname = rdotbelow;
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+},
+{
+layerId = m003;
+width = 600;
+},
+{
+layerId = m004;
+width = 600;
+},
+{
+layerId = m005;
+width = 600;
+}
+);
+unicode = 7771;
 },
 {
 glyphname = s;
