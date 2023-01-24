@@ -28,7 +28,7 @@ OÓŎÔÖȮÒŐŌØÕŒPṖÞQRŔŘŖSŚŠŞŜȘṠTŤŢṪUÚŬ
 "¡H!",
 "Ĭ",
 "¡IĄ!",
-"ṅṄMṛṚḍḌṁṀḟḞẹẸḷḶḥḤ"
+"ṅṄMṛẓẒṚḍḌṁṀḟḞẹẸḷḶḥḤ"
 );
 axes = (
 {
@@ -244,6 +244,7 @@ sub z by Z;
 sub zacute by Zacute;
 sub zcaron by Zcaron;
 sub zdotaccent by Zdotaccent;
+sub zdotbelow by Zdotbelow;
 
 
 
@@ -92390,6 +92391,77 @@ width = 528;
 unicode = 379;
 },
 {
+glyphname = Zdotbelow;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = Z;
+},
+{
+pos = (230,0);
+ref = dotbelowcomb.case;
+}
+);
+width = 568;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = Z;
+},
+{
+pos = (228,0);
+ref = dotbelowcomb.case;
+}
+);
+width = 563;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = Z;
+},
+{
+pos = (230,0);
+ref = dotbelowcomb.case;
+}
+);
+width = 568;
+},
+{
+layerId = m004;
+shapes = (
+{
+ref = Z;
+},
+{
+pos = (215,0);
+ref = dotbelowcomb.case;
+}
+);
+width = 538;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = Z;
+},
+{
+pos = (210,0);
+ref = dotbelowcomb.case;
+}
+);
+width = 528;
+}
+);
+unicode = 7826;
+},
+{
 glyphname = a;
 lastChange = "2022-10-18 12:20:00 +0000";
 layers = (
@@ -96623,6 +96695,32 @@ width = 600;
 }
 );
 unicode = 380;
+},
+{
+glyphname = zdotbelow;
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+},
+{
+layerId = m003;
+width = 600;
+},
+{
+layerId = m004;
+width = 600;
+},
+{
+layerId = m005;
+width = 600;
+}
+);
+unicode = 7827;
 },
 {
 glyphname = zero;
