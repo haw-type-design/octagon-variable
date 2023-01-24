@@ -24,12 +24,15 @@
     <key>public.kern1.E</key>
     <array>
       <string>AE</string>
+      <string>AEacute</string>
       <string>OE</string>
     </array>
     <key>public.kern1.Hyphen</key>
     <array>
       <string>periodcentered</string>
+      <string>bullet</string>
       <string>hyphen</string>
+      <string>endash</string>
       <string>emdash</string>
     </array>
     <key>public.kern1.J</key>
@@ -40,11 +43,16 @@
       <string>U</string>
       <string>Uacute</string>
       <string>Ubreve</string>
+      <string>Ucaron</string>
       <string>Ucircumflex</string>
       <string>Udieresis</string>
+      <string>Udotbelow</string>
       <string>Ugrave</string>
       <string>Uhungarumlaut</string>
       <string>Umacron</string>
+      <string>Uogonek</string>
+      <string>Uring</string>
+      <string>Utilde</string>
     </array>
     <key>public.kern1.K</key>
     <array>
@@ -75,23 +83,30 @@
       <string>Dcedilla</string>
       <string>Dcroat</string>
       <string>Ddotaccent</string>
+      <string>Ddotbelow</string>
       <string>G</string>
       <string>Gbreve</string>
       <string>Gcaron</string>
+      <string>Gcircumflex</string>
       <string>Gcommaaccent</string>
+      <string>Gdotaccent</string>
       <string>Gmacron</string>
       <string>O</string>
       <string>Oacute</string>
       <string>Obreve</string>
+      <string>Ocaron</string>
       <string>Ocircumflex</string>
       <string>Odieresis</string>
       <string>Odotaccent</string>
+      <string>Odotbelow</string>
       <string>Ograve</string>
       <string>Ohungarumlaut</string>
       <string>Omacron</string>
+      <string>Oogonek</string>
       <string>Oslash</string>
       <string>Otilde</string>
       <string>Q</string>
+      <string>at</string>
     </array>
     <key>public.kern1.P</key>
     <array>
@@ -123,10 +138,6 @@
       <string>Sdotaccent</string>
       <string>Sdotbelow</string>
     </array>
-    <key>public.kern1.U</key>
-    <array>
-      <string>Uring</string>
-    </array>
     <key>public.kern1.V</key>
     <array>
       <string>V</string>
@@ -151,6 +162,8 @@
     <array>
       <string>quotedbl</string>
       <string>quotesingle</string>
+      <string>minute</string>
+      <string>second</string>
     </array>
     <key>public.kern1.quotedblleft</key>
     <array>
@@ -181,6 +194,7 @@
       <string>Aring</string>
       <string>Atilde</string>
       <string>AE</string>
+      <string>AEacute</string>
     </array>
     <key>public.kern2.Colon</key>
     <array>
@@ -195,7 +209,9 @@
     <key>public.kern2.Hyphen</key>
     <array>
       <string>periodcentered</string>
+      <string>bullet</string>
       <string>hyphen</string>
+      <string>endash</string>
       <string>emdash</string>
     </array>
     <key>public.kern2.J</key>
@@ -218,21 +234,27 @@
       <string>G</string>
       <string>Gbreve</string>
       <string>Gcaron</string>
+      <string>Gcircumflex</string>
       <string>Gcommaaccent</string>
+      <string>Gdotaccent</string>
       <string>Gmacron</string>
       <string>O</string>
       <string>Oacute</string>
       <string>Obreve</string>
+      <string>Ocaron</string>
       <string>Ocircumflex</string>
       <string>Odieresis</string>
       <string>Odotaccent</string>
+      <string>Odotbelow</string>
       <string>Ograve</string>
       <string>Ohungarumlaut</string>
       <string>Omacron</string>
+      <string>Oogonek</string>
       <string>Oslash</string>
       <string>Otilde</string>
       <string>OE</string>
       <string>Q</string>
+      <string>at</string>
     </array>
     <key>public.kern2.Period</key>
     <array>
@@ -263,12 +285,16 @@
       <string>U</string>
       <string>Uacute</string>
       <string>Ubreve</string>
+      <string>Ucaron</string>
       <string>Ucircumflex</string>
       <string>Udieresis</string>
+      <string>Udotbelow</string>
       <string>Ugrave</string>
       <string>Uhungarumlaut</string>
       <string>Umacron</string>
+      <string>Uogonek</string>
       <string>Uring</string>
+      <string>Utilde</string>
     </array>
     <key>public.kern2.V</key>
     <array>
@@ -294,6 +320,8 @@
     <array>
       <string>quotedbl</string>
       <string>quotesingle</string>
+      <string>minute</string>
+      <string>second</string>
     </array>
     <key>public.kern2.quotedblleft</key>
     <array>
