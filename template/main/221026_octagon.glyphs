@@ -28,7 +28,7 @@ OÓŎÔÖȮÒŐŌØÕŒPṖÞQRŔŘŖSŚŠŞŜȘṠTŤŢṪUÚŬ
 "¡H!",
 "Ĭ",
 "¡IĄ!",
-"ṅṄḟḞẹẸḷḶḥḤ"
+"ṅṄMṀḟḞẹẸḷḶḥḤ"
 );
 axes = (
 {
@@ -41233,9 +41233,19 @@ unicode = 321;
 },
 {
 glyphname = M;
-lastChange = "2022-12-09 11:33:38 +0000";
+lastChange = "2023-01-24 11:42:21 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+pos = (395,0);
+},
+{
+name = top;
+pos = (395,600);
+}
+);
 layerId = m01;
 shapes = (
 {
@@ -41485,6 +41495,16 @@ nodes = (
 width = 789;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (395,50);
+},
+{
+name = top;
+pos = (395,550);
+}
+);
 background = {
 shapes = (
 {
@@ -41981,6 +42001,16 @@ nodes = (
 width = 789;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (395,50);
+},
+{
+name = top;
+pos = (395,550);
+}
+);
 layerId = m003;
 shapes = (
 {
@@ -42230,6 +42260,16 @@ nodes = (
 width = 789;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (349,0);
+},
+{
+name = top;
+pos = (349,600);
+}
+);
 background = {
 shapes = (
 {
@@ -42564,6 +42604,16 @@ nodes = (
 width = 698;
 },
 {
+anchors = (
+{
+name = bottom;
+pos = (357,0);
+},
+{
+name = top;
+pos = (357,600);
+}
+);
 layerId = m005;
 shapes = (
 {
@@ -43079,6 +43129,78 @@ width = 698;
 metricLeft = "=10";
 metricRight = "=10";
 unicode = 77;
+},
+{
+glyphname = Mdotaccent;
+lastChange = "2023-01-24 11:42:18 +0000";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = M;
+},
+{
+pos = (341,0);
+ref = dotaccentcomb.case;
+}
+);
+width = 789;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = M;
+},
+{
+pos = (341,0);
+ref = dotaccentcomb.case;
+}
+);
+width = 789;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = M;
+},
+{
+pos = (341,0);
+ref = dotaccentcomb.case;
+}
+);
+width = 789;
+},
+{
+layerId = m004;
+shapes = (
+{
+ref = M;
+},
+{
+pos = (295,0);
+ref = dotaccentcomb.case;
+}
+);
+width = 698;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = M;
+},
+{
+pos = (303,0);
+ref = dotaccentcomb.case;
+}
+);
+width = 714;
+}
+);
+unicode = 7744;
 },
 {
 glyphname = N;
