@@ -28,7 +28,7 @@ OÓŎÔÖȮÒŐŌØÕŒPṖÞQRŔŘŖSŚŠŞŜȘṠTŤŢṪUÚŬ
 "¡H!",
 "Ĭ",
 "¡IĄ!",
-"ṅṄMṛṣṢẓẒṚḍḌṁṀḟḞẹẸḷḶḥḤ"
+"ṅṄMṛ¡¿ṣṢSẓZẒRṚḍḌṁṀḟFḞẹEẸḷLḶḥHḤ"
 );
 axes = (
 {
@@ -39000,6 +39000,8 @@ unicode = 319;
 },
 {
 glyphname = Ldotbelow;
+kernRight = L;
+lastChange = "2023-01-24 11:49:01 +0000";
 layers = (
 {
 layerId = m01;
@@ -74494,6 +74496,8 @@ unicode = 342;
 },
 {
 glyphname = Rdotbelow;
+kernRight = R;
+lastChange = "2023-01-24 11:48:46 +0000";
 layers = (
 {
 layerId = m01;
@@ -77305,6 +77309,9 @@ unicode = 7776;
 },
 {
 glyphname = Sdotbelow;
+kernLeft = S;
+kernRight = S;
+lastChange = "2023-01-24 11:48:32 +0000";
 layers = (
 {
 layerId = m01;
