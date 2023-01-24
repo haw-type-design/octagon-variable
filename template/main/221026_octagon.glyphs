@@ -29,7 +29,9 @@ OÓŎÔÖȮÒŐŌØÕŒPṖÞQRŔŘŖSŚŠŞŜȘṠTŤŢṪUÚŬ
 "Ĭ",
 "¡IĄ!",
 "ṅṄMṛ¡¿ṣṢṀMSẓZẒRṚḍḌṁṀḟFḞẹEẸḷLḶḥHḤ",
-M
+M,
+"′″",
+"'quotedblt′″"
 );
 axes = (
 {
@@ -153289,6 +153291,138 @@ width = 622;
 metricLeft = "=10";
 metricRight = "=10";
 unicode = 38;
+},
+{
+glyphname = minute;
+kernLeft = quotedbl;
+kernRight = quotedbl;
+lastChange = "2023-01-24 13:18:42 +0000";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = quotesingle;
+}
+);
+width = 132;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = quotesingle;
+}
+);
+width = 132;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = quotesingle;
+}
+);
+width = 132;
+},
+{
+layerId = m004;
+shapes = (
+{
+ref = quotesingle;
+}
+);
+width = 132;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = quotesingle;
+}
+);
+width = 132;
+}
+);
+metricLeft = "=quotesingle";
+metricRight = "=quotesingle";
+unicode = 8242;
+},
+{
+glyphname = second;
+kernLeft = quotedbl;
+kernRight = quotedbl;
+lastChange = "2023-01-24 13:18:45 +0000";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+pos = (90,0);
+ref = minute;
+},
+{
+ref = minute;
+}
+);
+width = 222;
+},
+{
+layerId = m002;
+shapes = (
+{
+pos = (90,0);
+ref = minute;
+},
+{
+ref = minute;
+}
+);
+width = 222;
+},
+{
+layerId = m003;
+shapes = (
+{
+pos = (90,0);
+ref = minute;
+},
+{
+ref = minute;
+}
+);
+width = 222;
+},
+{
+layerId = m004;
+shapes = (
+{
+pos = (84,0);
+ref = minute;
+},
+{
+ref = minute;
+}
+);
+width = 216;
+},
+{
+layerId = m005;
+shapes = (
+{
+pos = (84,0);
+ref = minute;
+},
+{
+ref = minute;
+}
+);
+width = 216;
+}
+);
+metricLeft = "=quotesingle";
+metricRight = "=quotesingle";
+unicode = 8243;
 },
 {
 glyphname = plus;
