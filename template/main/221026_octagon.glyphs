@@ -28,7 +28,7 @@ OÓŎÔÖȮÒŐŌØÕŒPṖÞQRŔŘŖSŚŠŞŜȘṠTŤŢṪUÚŬ
 "¡H!",
 "Ĭ",
 "¡IĄ!",
-"¿H?"
+"HHH...…..."
 );
 axes = (
 {
@@ -121510,7 +121510,7 @@ unicode = 59;
 },
 {
 glyphname = ellipsis;
-lastChange = "2023-01-23 11:54:55 +0000";
+lastChange = "2023-01-24 11:31:09 +0000";
 layers = (
 {
 layerId = m01;
@@ -128093,6 +128093,60 @@ width = 224;
 metricLeft = "=15";
 metricRight = "=15";
 unicode = 183;
+},
+{
+glyphname = bullet;
+lastChange = "2023-01-24 11:30:47 +0000";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = periodcentered;
+}
+);
+width = 224;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = periodcentered;
+}
+);
+width = 224;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = periodcentered;
+}
+);
+width = 224;
+},
+{
+layerId = m004;
+shapes = (
+{
+ref = periodcentered;
+}
+);
+width = 224;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = periodcentered;
+}
+);
+width = 224;
+}
+);
+metricLeft = "=periodcentered";
+metricRight = "=periodcentered";
+unicode = 8226;
 },
 {
 glyphname = asterisk;
