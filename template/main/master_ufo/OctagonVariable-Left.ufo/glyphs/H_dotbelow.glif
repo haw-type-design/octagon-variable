@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hdotbelow" format="2">
+  <advance width="517"/>
+  <unicode hex="1E24"/>
+  <anchor x="259" y="-120" name="bottom"/>
+  <anchor x="259" y="300" name="center"/>
+  <anchor x="259" y="600" name="top"/>
+  <anchor x="25" y="600" name="topleft"/>
+  <outline>
+    <component base="H"/>
+    <component base="dotbelowcomb.case" xOffset="205"/>
+  </outline>
+</glyph>

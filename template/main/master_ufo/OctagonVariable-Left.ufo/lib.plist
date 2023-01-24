@@ -79,6 +79,7 @@
       <string>Dcedilla</string>
       <string>Dcroat</string>
       <string>Ddotaccent</string>
+      <string>Ddotbelow</string>
       <string>E</string>
       <string>Eacute</string>
       <string>Ebreve</string>
@@ -86,11 +87,13 @@
       <string>Ecircumflex</string>
       <string>Edieresis</string>
       <string>Edotaccent</string>
+      <string>Edotbelow</string>
       <string>Egrave</string>
       <string>Emacron</string>
       <string>Eogonek</string>
       <string>Etilde</string>
       <string>F</string>
+      <string>Fdotaccent</string>
       <string>G</string>
       <string>Gbreve</string>
       <string>Gcaron</string>
@@ -103,9 +106,11 @@
       <string>Hcaron</string>
       <string>Hcircumflex</string>
       <string>Hdotaccent</string>
+      <string>Hdotbelow</string>
       <string>I</string>
       <string>IJ</string>
       <string>Iacute</string>
+      <string>Ibreve</string>
       <string>Icaron</string>
       <string>Icircumflex</string>
       <string>Idieresis</string>
@@ -125,12 +130,15 @@
       <string>Lcaron</string>
       <string>Lcommaaccent</string>
       <string>Ldot</string>
+      <string>Ldotbelow</string>
       <string>Lslash</string>
       <string>M</string>
+      <string>Mdotaccent</string>
       <string>N</string>
       <string>Nacute</string>
       <string>Ncaron</string>
       <string>Ncommaaccent</string>
+      <string>Ndotaccent</string>
       <string>Ngrave</string>
       <string>Ntilde</string>
       <string>Eng</string>
@@ -158,6 +166,7 @@
       <string>Racute</string>
       <string>Rcaron</string>
       <string>Rcommaaccent</string>
+      <string>Rdotbelow</string>
       <string>S</string>
       <string>Sacute</string>
       <string>Scaron</string>
@@ -165,6 +174,7 @@
       <string>Scircumflex</string>
       <string>Scommaaccent</string>
       <string>Sdotaccent</string>
+      <string>Sdotbelow</string>
       <string>Germandbls</string>
       <string>T</string>
       <string>Tcaron</string>
@@ -203,6 +213,7 @@
       <string>Zacute</string>
       <string>Zcaron</string>
       <string>Zdotaccent</string>
+      <string>Zdotbelow</string>
       <string>a</string>
       <string>aacute</string>
       <string>abreve</string>
@@ -230,6 +241,7 @@
       <string>dcedilla</string>
       <string>dcroat</string>
       <string>ddotaccent</string>
+      <string>ddotbelow</string>
       <string>e</string>
       <string>eacute</string>
       <string>ebreve</string>
@@ -237,11 +249,13 @@
       <string>ecircumflex</string>
       <string>edieresis</string>
       <string>edotaccent</string>
+      <string>edotbelow</string>
       <string>egrave</string>
       <string>emacron</string>
       <string>eogonek</string>
       <string>etilde</string>
       <string>f</string>
+      <string>fdotaccent</string>
       <string>g</string>
       <string>gbreve</string>
       <string>gcaron</string>
@@ -254,9 +268,11 @@
       <string>hcaron</string>
       <string>hcircumflex</string>
       <string>hdotaccent</string>
+      <string>hdotbelow</string>
       <string>i</string>
       <string>idotless</string>
       <string>iacute</string>
+      <string>ibreve</string>
       <string>icaron</string>
       <string>icircumflex</string>
       <string>idieresis</string>
@@ -277,12 +293,15 @@
       <string>lcaron</string>
       <string>lcommaaccent</string>
       <string>ldot</string>
+      <string>ldotbelow</string>
       <string>lslash</string>
       <string>m</string>
+      <string>mdotaccent</string>
       <string>n</string>
       <string>nacute</string>
       <string>ncaron</string>
       <string>ncommaaccent</string>
+      <string>ndotaccent</string>
       <string>ngrave</string>
       <string>ntilde</string>
       <string>eng</string>
@@ -310,6 +329,7 @@
       <string>racute</string>
       <string>rcaron</string>
       <string>rcommaaccent</string>
+      <string>rdotbelow</string>
       <string>s</string>
       <string>sacute</string>
       <string>scaron</string>
@@ -317,6 +337,7 @@
       <string>scircumflex</string>
       <string>scommaaccent</string>
       <string>sdotaccent</string>
+      <string>sdotbelow</string>
       <string>germandbls</string>
       <string>t</string>
       <string>tcaron</string>
@@ -355,6 +376,7 @@
       <string>zacute</string>
       <string>zcaron</string>
       <string>zdotaccent</string>
+      <string>zdotbelow</string>
       <string>zero</string>
       <string>one</string>
       <string>two</string>
@@ -371,15 +393,21 @@
       <string>comma</string>
       <string>colon</string>
       <string>semicolon</string>
+      <string>ellipsis</string>
       <string>exclam</string>
+      <string>exclamdown</string>
       <string>question</string>
+      <string>questiondown</string>
       <string>periodcentered</string>
+      <string>bullet</string>
       <string>asterisk</string>
       <string>numbersign</string>
       <string>slash</string>
+      <string>backslash</string>
       <string>hyphen</string>
       <string>endash</string>
       <string>emdash</string>
+      <string>underscore</string>
       <string>quotesinglbase</string>
       <string>quotedblbase</string>
       <string>quotedblleft</string>
@@ -479,6 +507,8 @@
       <string>base</string>
       <key>Ddotaccent</key>
       <string>base</string>
+      <key>Ddotbelow</key>
+      <string>base</string>
       <key>E</key>
       <string>base</string>
       <key>Eacute</key>
@@ -493,6 +523,8 @@
       <string>base</string>
       <key>Edotaccent</key>
       <string>base</string>
+      <key>Edotbelow</key>
+      <string>base</string>
       <key>Egrave</key>
       <string>base</string>
       <key>Emacron</key>
@@ -502,6 +534,8 @@
       <key>Etilde</key>
       <string>base</string>
       <key>F</key>
+      <string>base</string>
+      <key>Fdotaccent</key>
       <string>base</string>
       <key>G</key>
       <string>base</string>
@@ -525,11 +559,15 @@
       <string>base</string>
       <key>Hdotaccent</key>
       <string>base</string>
+      <key>Hdotbelow</key>
+      <string>base</string>
       <key>I</key>
       <string>base</string>
       <key>IJ</key>
       <string>base</string>
       <key>Iacute</key>
+      <string>base</string>
+      <key>Ibreve</key>
       <string>base</string>
       <key>Icaron</key>
       <string>base</string>
@@ -569,6 +607,12 @@
       <string>base</string>
       <key>Ldot</key>
       <string>base</string>
+      <key>Ldotbelow</key>
+      <string>base</string>
+      <key>M</key>
+      <string>base</string>
+      <key>Mdotaccent</key>
+      <string>base</string>
       <key>N</key>
       <string>base</string>
       <key>Nacute</key>
@@ -576,6 +620,8 @@
       <key>Ncaron</key>
       <string>base</string>
       <key>Ncommaaccent</key>
+      <string>base</string>
+      <key>Ndotaccent</key>
       <string>base</string>
       <key>Ngrave</key>
       <string>base</string>
@@ -625,6 +671,8 @@
       <string>base</string>
       <key>Rcommaaccent</key>
       <string>base</string>
+      <key>Rdotbelow</key>
+      <string>base</string>
       <key>S</key>
       <string>base</string>
       <key>Sacute</key>
@@ -638,6 +686,8 @@
       <key>Scommaaccent</key>
       <string>base</string>
       <key>Sdotaccent</key>
+      <string>base</string>
+      <key>Sdotbelow</key>
       <string>base</string>
       <key>T</key>
       <string>base</string>
@@ -711,6 +761,8 @@
       <string>base</string>
       <key>Zdotaccent</key>
       <string>base</string>
+      <key>Zdotbelow</key>
+      <string>base</string>
       <key>acutecomb.case</key>
       <string>mark</string>
       <key>brevecomb.case</key>
@@ -752,8 +804,14 @@
       <string>uni1E10</string>
       <key>Ddotaccent</key>
       <string>uni1E0A</string>
+      <key>Ddotbelow</key>
+      <string>uni1E0C</string>
+      <key>Edotbelow</key>
+      <string>uni1EB8</string>
       <key>Etilde</key>
       <string>uni1EBC</string>
+      <key>Fdotaccent</key>
+      <string>uni1E1E</string>
       <key>Gcommaaccent</key>
       <string>uni0122</string>
       <key>Germandbls</key>
@@ -764,6 +822,8 @@
       <string>uni021E</string>
       <key>Hdotaccent</key>
       <string>uni1E22</string>
+      <key>Hdotbelow</key>
+      <string>uni1E24</string>
       <key>Icaron</key>
       <string>uni01CF</string>
       <key>Idotbelow</key>
@@ -774,8 +834,14 @@
       <string>uni0136</string>
       <key>Lcommaaccent</key>
       <string>uni013B</string>
+      <key>Ldotbelow</key>
+      <string>uni1E36</string>
+      <key>Mdotaccent</key>
+      <string>uni1E40</string>
       <key>Ncommaaccent</key>
       <string>uni0145</string>
+      <key>Ndotaccent</key>
+      <string>uni1E44</string>
       <key>Ngrave</key>
       <string>uni01F8</string>
       <key>Ocaron</key>
@@ -790,10 +856,14 @@
       <string>uni1E56</string>
       <key>Rcommaaccent</key>
       <string>uni0156</string>
+      <key>Rdotbelow</key>
+      <string>uni1E5A</string>
       <key>Scommaaccent</key>
       <string>uni0218</string>
       <key>Sdotaccent</key>
       <string>uni1E60</string>
+      <key>Sdotbelow</key>
+      <string>uni1E62</string>
       <key>Tcedilla</key>
       <string>uni0162</string>
       <key>Tcommaaccent</key>
@@ -810,6 +880,8 @@
       <string>uni0232</string>
       <key>Ytilde</key>
       <string>uni1EF8</string>
+      <key>Zdotbelow</key>
+      <string>uni1E92</string>
       <key>acaron</key>
       <string>uni01CE</string>
       <key>bdotaccent</key>
@@ -828,12 +900,18 @@
       <string>uni1E11</string>
       <key>ddotaccent</key>
       <string>uni1E0B</string>
+      <key>ddotbelow</key>
+      <string>uni1E0D</string>
       <key>dieresiscomb.case</key>
       <string>uni0308.case</string>
       <key>dotaccentcomb.case</key>
       <string>uni0307.case</string>
+      <key>edotbelow</key>
+      <string>uni1EB9</string>
       <key>etilde</key>
       <string>uni1EBD</string>
+      <key>fdotaccent</key>
+      <string>uni1E1F</string>
       <key>gcommaaccent</key>
       <string>uni0123</string>
       <key>gmacron</key>
@@ -842,6 +920,8 @@
       <string>uni021F</string>
       <key>hdotaccent</key>
       <string>uni1E23</string>
+      <key>hdotbelow</key>
+      <string>uni1E25</string>
       <key>hungarumlautcomb.case</key>
       <string>uni030B.case</string>
       <key>icaron</key>
@@ -858,10 +938,16 @@
       <string>uni0137</string>
       <key>lcommaaccent</key>
       <string>uni013C</string>
+      <key>ldotbelow</key>
+      <string>uni1E37</string>
       <key>macroncomb.case</key>
       <string>uni0304.case</string>
+      <key>mdotaccent</key>
+      <string>uni1E41</string>
       <key>ncommaaccent</key>
       <string>uni0146</string>
+      <key>ndotaccent</key>
+      <string>uni1E45</string>
       <key>ngrave</key>
       <string>uni01F9</string>
       <key>ocaron</key>
@@ -878,12 +964,16 @@
       <string>uni1E57</string>
       <key>rcommaaccent</key>
       <string>uni0157</string>
+      <key>rdotbelow</key>
+      <string>uni1E5B</string>
       <key>ringcomb.case</key>
       <string>uni030A.case</string>
       <key>scommaaccent</key>
       <string>uni0219</string>
       <key>sdotaccent</key>
       <string>uni1E61</string>
+      <key>sdotbelow</key>
+      <string>uni1E63</string>
       <key>tcedilla</key>
       <string>uni0163</string>
       <key>tcommaaccent</key>
@@ -900,6 +990,8 @@
       <string>uni0233</string>
       <key>ytilde</key>
       <string>uni1EF9</string>
+      <key>zdotbelow</key>
+      <string>uni1E93</string>
     </dict>
     <key>public.skipExportGlyphs</key>
     <array>

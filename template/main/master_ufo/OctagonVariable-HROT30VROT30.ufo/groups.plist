@@ -58,6 +58,7 @@
       <string>Lacute</string>
       <string>Lcaron</string>
       <string>Lcommaaccent</string>
+      <string>Ldotbelow</string>
       <string>Lslash</string>
     </array>
     <key>public.kern1.O</key>
@@ -109,6 +110,7 @@
       <string>Racute</string>
       <string>Rcaron</string>
       <string>Rcommaaccent</string>
+      <string>Rdotbelow</string>
     </array>
     <key>public.kern1.S</key>
     <array>
@@ -119,6 +121,7 @@
       <string>Scircumflex</string>
       <string>Scommaaccent</string>
       <string>Sdotaccent</string>
+      <string>Sdotbelow</string>
     </array>
     <key>public.kern1.U</key>
     <array>
@@ -245,6 +248,7 @@
       <string>Scircumflex</string>
       <string>Scommaaccent</string>
       <string>Sdotaccent</string>
+      <string>Sdotbelow</string>
     </array>
     <key>public.kern2.T</key>
     <array>

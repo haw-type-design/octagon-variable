@@ -56,6 +56,8 @@
     <string>D_croat.glif</string>
     <key>Ddotaccent</key>
     <string>D_dotaccent.glif</string>
+    <key>Ddotbelow</key>
+    <string>D_dotbelow.glif</string>
     <key>E</key>
     <string>E_.glif</string>
     <key>Eacute</key>
@@ -70,6 +72,8 @@
     <string>E_dieresis.glif</string>
     <key>Edotaccent</key>
     <string>E_dotaccent.glif</string>
+    <key>Edotbelow</key>
+    <string>E_dotbelow.glif</string>
     <key>Egrave</key>
     <string>E_grave.glif</string>
     <key>Emacron</key>
@@ -84,6 +88,8 @@
     <string>E_tilde.glif</string>
     <key>F</key>
     <string>F_.glif</string>
+    <key>Fdotaccent</key>
+    <string>F_dotaccent.glif</string>
     <key>G</key>
     <string>G_.glif</string>
     <key>Gbreve</key>
@@ -110,12 +116,16 @@
     <string>H_circumflex.glif</string>
     <key>Hdotaccent</key>
     <string>H_dotaccent.glif</string>
+    <key>Hdotbelow</key>
+    <string>H_dotbelow.glif</string>
     <key>I</key>
     <string>I_.glif</string>
     <key>IJ</key>
     <string>I_J_.glif</string>
     <key>Iacute</key>
     <string>I_acute.glif</string>
+    <key>Ibreve</key>
+    <string>I_breve.glif</string>
     <key>Icaron</key>
     <string>I_caron.glif</string>
     <key>Icircumflex</key>
@@ -154,10 +164,14 @@
     <string>L_commaaccent.glif</string>
     <key>Ldot</key>
     <string>L_dot.glif</string>
+    <key>Ldotbelow</key>
+    <string>L_dotbelow.glif</string>
     <key>Lslash</key>
     <string>L_slash.glif</string>
     <key>M</key>
     <string>M_.glif</string>
+    <key>Mdotaccent</key>
+    <string>M_dotaccent.glif</string>
     <key>N</key>
     <string>N_.glif</string>
     <key>Nacute</key>
@@ -166,6 +180,8 @@
     <string>N_caron.glif</string>
     <key>Ncommaaccent</key>
     <string>N_commaaccent.glif</string>
+    <key>Ndotaccent</key>
+    <string>N_dotaccent.glif</string>
     <key>Ngrave</key>
     <string>N_grave.glif</string>
     <key>Ntilde</key>
@@ -216,6 +232,8 @@
     <string>R_caron.glif</string>
     <key>Rcommaaccent</key>
     <string>R_commaaccent.glif</string>
+    <key>Rdotbelow</key>
+    <string>R_dotbelow.glif</string>
     <key>S</key>
     <string>S_.glif</string>
     <key>Sacute</key>
@@ -230,6 +248,8 @@
     <string>S_commaaccent.glif</string>
     <key>Sdotaccent</key>
     <string>S_dotaccent.glif</string>
+    <key>Sdotbelow</key>
+    <string>S_dotbelow.glif</string>
     <key>T</key>
     <string>T_.glif</string>
     <key>Tcaron</key>
@@ -306,6 +326,8 @@
     <string>Z_caron.glif</string>
     <key>Zdotaccent</key>
     <string>Z_dotaccent.glif</string>
+    <key>Zdotbelow</key>
+    <string>Z_dotbelow.glif</string>
     <key>a</key>
     <string>a.glif</string>
     <key>aacute</key>
@@ -348,12 +370,16 @@
     <string>atilde.glif</string>
     <key>b</key>
     <string>b.glif</string>
+    <key>backslash</key>
+    <string>backslash.glif</string>
     <key>bdotaccent</key>
     <string>bdotaccent.glif</string>
     <key>breve</key>
     <string>breve.glif</string>
     <key>brevecomb.case</key>
     <string>brevecomb.case.glif</string>
+    <key>bullet</key>
+    <string>bullet.glif</string>
     <key>c</key>
     <string>c.glif</string>
     <key>cacute</key>
@@ -394,6 +420,8 @@
     <string>dcroat.glif</string>
     <key>ddotaccent</key>
     <string>ddotaccent.glif</string>
+    <key>ddotbelow</key>
+    <string>ddotbelow.glif</string>
     <key>diagonals</key>
     <string>diagonals.glif</string>
     <key>dieresis</key>
@@ -420,10 +448,14 @@
     <string>edieresis.glif</string>
     <key>edotaccent</key>
     <string>edotaccent.glif</string>
+    <key>edotbelow</key>
+    <string>edotbelow.glif</string>
     <key>egrave</key>
     <string>egrave.glif</string>
     <key>eight</key>
     <string>eight.glif</string>
+    <key>ellipsis</key>
+    <string>ellipsis.glif</string>
     <key>emacron</key>
     <string>emacron.glif</string>
     <key>emdash</key>
@@ -442,8 +474,12 @@
     <string>etilde.glif</string>
     <key>exclam</key>
     <string>exclam.glif</string>
+    <key>exclamdown</key>
+    <string>exclamdown.glif</string>
     <key>f</key>
     <string>f.glif</string>
+    <key>fdotaccent</key>
+    <string>fdotaccent.glif</string>
     <key>five</key>
     <string>five.glif</string>
     <key>four</key>
@@ -478,6 +514,8 @@
     <string>hcircumflex.glif</string>
     <key>hdotaccent</key>
     <string>hdotaccent.glif</string>
+    <key>hdotbelow</key>
+    <string>hdotbelow.glif</string>
     <key>horizontals</key>
     <string>horizontals.glif</string>
     <key>hungarumlaut</key>
@@ -490,6 +528,8 @@
     <string>i.glif</string>
     <key>iacute</key>
     <string>iacute.glif</string>
+    <key>ibreve</key>
+    <string>ibreve.glif</string>
     <key>icaron</key>
     <string>icaron.glif</string>
     <key>icircumflex</key>
@@ -532,6 +572,8 @@
     <string>lcommaaccent.glif</string>
     <key>ldot</key>
     <string>ldot.glif</string>
+    <key>ldotbelow</key>
+    <string>ldotbelow.glif</string>
     <key>lslash</key>
     <string>lslash.glif</string>
     <key>m</key>
@@ -540,6 +582,8 @@
     <string>macron.glif</string>
     <key>macroncomb.case</key>
     <string>macroncomb.case.glif</string>
+    <key>mdotaccent</key>
+    <string>mdotaccent.glif</string>
     <key>minus</key>
     <string>minus.glif</string>
     <key>n</key>
@@ -550,6 +594,8 @@
     <string>ncaron.glif</string>
     <key>ncommaaccent</key>
     <string>ncommaaccent.glif</string>
+    <key>ndotaccent</key>
+    <string>ndotaccent.glif</string>
     <key>ngrave</key>
     <string>ngrave.glif</string>
     <key>nine</key>
@@ -610,6 +656,8 @@
     <string>q.glif</string>
     <key>question</key>
     <string>question.glif</string>
+    <key>questiondown</key>
+    <string>questiondown.glif</string>
     <key>quotedbl</key>
     <string>quotedbl.glif</string>
     <key>quotedblbase</key>
@@ -634,6 +682,8 @@
     <string>rcaron.glif</string>
     <key>rcommaaccent</key>
     <string>rcommaaccent.glif</string>
+    <key>rdotbelow</key>
+    <string>rdotbelow.glif</string>
     <key>ring</key>
     <string>ring.glif</string>
     <key>ringcomb.case</key>
@@ -652,6 +702,8 @@
     <string>scommaaccent.glif</string>
     <key>sdotaccent</key>
     <string>sdotaccent.glif</string>
+    <key>sdotbelow</key>
+    <string>sdotbelow.glif</string>
     <key>semicolon</key>
     <string>semicolon.glif</string>
     <key>seven</key>
@@ -702,6 +754,8 @@
     <string>uhungarumlaut.glif</string>
     <key>umacron</key>
     <string>umacron.glif</string>
+    <key>underscore</key>
+    <string>underscore.glif</string>
     <key>uogonek</key>
     <string>uogonek.glif</string>
     <key>uring</key>
@@ -748,6 +802,8 @@
     <string>zcaron.glif</string>
     <key>zdotaccent</key>
     <string>zdotaccent.glif</string>
+    <key>zdotbelow</key>
+    <string>zdotbelow.glif</string>
     <key>zero</key>
     <string>zero.glif</string>
   </dict>
