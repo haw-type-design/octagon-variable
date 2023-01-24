@@ -28,7 +28,7 @@ OÓŎÔÖȮÒŐŌØÕŒPṖÞQRŔŘŖSŚŠŞŜȘṠTŤŢṪUÚŬ
 "¡H!",
 "Ĭ",
 "¡IĄ!",
-"ṅṄMṀḟḞẹẸḷḶḥḤ"
+"ṅṄMṁṀḟḞẹẸḷḶḥḤ"
 );
 axes = (
 {
@@ -166,6 +166,7 @@ sub ldot by Ldot;
 sub ldotbelow by Ldotbelow;
 sub lslash by Lslash;
 sub m by M;
+sub mdotaccent by Mdotaccent;
 sub n by N;
 sub nacute by Nacute;
 sub ncaron by Ncaron;
@@ -94378,6 +94379,33 @@ width = 600;
 }
 );
 unicode = 109;
+},
+{
+glyphname = mdotaccent;
+lastChange = "2023-01-24 11:42:57 +0000";
+layers = (
+{
+layerId = m01;
+width = 708;
+},
+{
+layerId = m002;
+width = 708;
+},
+{
+layerId = m003;
+width = 708;
+},
+{
+layerId = m004;
+width = 708;
+},
+{
+layerId = m005;
+width = 708;
+}
+);
+unicode = 7745;
 },
 {
 glyphname = n;
