@@ -28,7 +28,7 @@ OÓŎÔÖȮÒŐŌØÕŒPṖÞQRŔŘŖSŚŠŞŜȘṠTŤŢṪUÚŬ
 "¡H!",
 "Ĭ",
 "¡IĄ!",
-"ḷḶḥḤ"
+"ṅṄḷḶḥḤ"
 );
 axes = (
 {
@@ -168,6 +168,7 @@ sub n by N;
 sub nacute by Nacute;
 sub ncaron by Ncaron;
 sub ncommaaccent by Ncommaaccent;
+sub ndotaccent by Ndotaccent;
 sub ngrave by Ngrave;
 sub ntilde by Ntilde;
 sub o by O;
@@ -44982,6 +44983,77 @@ width = 578;
 }
 );
 unicode = 325;
+},
+{
+glyphname = Ndotaccent;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = N;
+},
+{
+pos = (262,0);
+ref = dotaccentcomb.case;
+}
+);
+width = 631;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = N;
+},
+{
+pos = (262,0);
+ref = dotaccentcomb.case;
+}
+);
+width = 631;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = N;
+},
+{
+pos = (262,0);
+ref = dotaccentcomb.case;
+}
+);
+width = 631;
+},
+{
+layerId = m004;
+shapes = (
+{
+ref = N;
+},
+{
+pos = (235,0);
+ref = dotaccentcomb.case;
+}
+);
+width = 578;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = N;
+},
+{
+pos = (235,0);
+ref = dotaccentcomb.case;
+}
+);
+width = 578;
+}
+);
+unicode = 7748;
 },
 {
 glyphname = Ngrave;
@@ -94092,6 +94164,33 @@ width = 600;
 }
 );
 unicode = 326;
+},
+{
+glyphname = ndotaccent;
+lastChange = "2023-01-24 11:38:49 +0000";
+layers = (
+{
+layerId = m01;
+width = 708;
+},
+{
+layerId = m002;
+width = 708;
+},
+{
+layerId = m003;
+width = 708;
+},
+{
+layerId = m004;
+width = 708;
+},
+{
+layerId = m005;
+width = 708;
+}
+);
+unicode = 7749;
 },
 {
 glyphname = ngrave;
