@@ -28,7 +28,7 @@ OÓŎÔÖȮÒŐŌØÕŒPṖÞQRŔŘŖSŚŠŞŜȘṠTŤŢṪUÚŬ
 "¡H!",
 "Ĭ",
 "¡IĄ!",
-"ḥḤ"
+"ḷḶḥḤ"
 );
 axes = (
 {
@@ -161,6 +161,7 @@ sub lacute by Lacute;
 sub lcaron by Lcaron;
 sub lcommaaccent by Lcommaaccent;
 sub ldot by Ldot;
+sub ldotbelow by Ldotbelow;
 sub lslash by Lslash;
 sub m by M;
 sub n by N;
@@ -38775,6 +38776,77 @@ width = 435;
 }
 );
 unicode = 319;
+},
+{
+glyphname = Ldotbelow;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = L;
+},
+{
+pos = (176,0);
+ref = dotbelowcomb.case;
+}
+);
+width = 455;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = L;
+},
+{
+pos = (176,0);
+ref = dotbelowcomb.case;
+}
+);
+width = 455;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = L;
+},
+{
+pos = (176,0);
+ref = dotbelowcomb.case;
+}
+);
+width = 455;
+},
+{
+layerId = m004;
+shapes = (
+{
+ref = L;
+},
+{
+pos = (126,0);
+ref = dotbelowcomb.case;
+}
+);
+width = 415;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = L;
+},
+{
+pos = (176,0);
+ref = dotbelowcomb.case;
+}
+);
+width = 435;
+}
+);
+unicode = 7734;
 },
 {
 glyphname = Lslash;
@@ -93836,6 +93908,32 @@ width = 600;
 }
 );
 unicode = 320;
+},
+{
+glyphname = ldotbelow;
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+},
+{
+layerId = m003;
+width = 600;
+},
+{
+layerId = m004;
+width = 600;
+},
+{
+layerId = m005;
+width = 600;
+}
+);
+unicode = 7735;
 },
 {
 glyphname = lslash;
