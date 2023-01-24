@@ -28,7 +28,7 @@ OÓŎÔÖȮÒŐŌØÕŒPṖÞQRŔŘŖSŚŠŞŜȘṠTŤŢṪUÚŬ
 "¡H!",
 "Ĭ",
 "¡IĄ!",
-"ṅṄẹẸḷḶḥḤ"
+"ṅṄḟḞẹẸḷḶḥḤ"
 );
 axes = (
 {
@@ -125,6 +125,7 @@ sub emacron by Emacron;
 sub eogonek by Eogonek;
 sub etilde by Etilde;
 sub f by F;
+sub fdotaccent by Fdotaccent;
 sub g by G;
 sub gbreve by Gbreve;
 sub gcaron by Gcaron;
@@ -23495,6 +23496,77 @@ width = 416;
 metricLeft = "=10";
 metricRight = "=5";
 unicode = 70;
+},
+{
+glyphname = Fdotaccent;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = F;
+},
+{
+pos = (186,0);
+ref = dotaccentcomb.case;
+}
+);
+width = 475;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = F;
+},
+{
+pos = (186,0);
+ref = dotaccentcomb.case;
+}
+);
+width = 475;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = F;
+},
+{
+pos = (186,0);
+ref = dotaccentcomb.case;
+}
+);
+width = 475;
+},
+{
+layerId = m004;
+shapes = (
+{
+ref = F;
+},
+{
+pos = (176,0);
+ref = dotaccentcomb.case;
+}
+);
+width = 455;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = F;
+},
+{
+pos = (157,0);
+ref = dotaccentcomb.case;
+}
+);
+width = 416;
+}
+);
+unicode = 7710;
 },
 {
 glyphname = G;
@@ -93099,6 +93171,33 @@ width = 600;
 }
 );
 unicode = 102;
+},
+{
+glyphname = fdotaccent;
+lastChange = "2023-01-24 11:41:13 +0000";
+layers = (
+{
+layerId = m01;
+width = 708;
+},
+{
+layerId = m002;
+width = 708;
+},
+{
+layerId = m003;
+width = 708;
+},
+{
+layerId = m004;
+width = 708;
+},
+{
+layerId = m005;
+width = 708;
+}
+);
+unicode = 7711;
 },
 {
 glyphname = g;
