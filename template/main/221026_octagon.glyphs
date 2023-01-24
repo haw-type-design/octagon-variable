@@ -28,7 +28,7 @@ OÓŎÔÖȮÒŐŌØÕŒPṖÞQRŔŘŖSŚŠŞŜȘṠTŤŢṪUÚŬ
 "¡H!",
 "Ĭ",
 "¡IĄ!",
-"ṅṄḷḶḥḤ"
+"ṅṄẹẸḷḶḥḤ"
 );
 axes = (
 {
@@ -118,6 +118,7 @@ sub ecaron by Ecaron;
 sub ecircumflex by Ecircumflex;
 sub edieresis by Edieresis;
 sub edotaccent by Edotaccent;
+sub edotbelow by Edotbelow;
 sub egrave by Egrave;
 sub eng by Eng;
 sub emacron by Emacron;
@@ -21234,6 +21235,77 @@ width = 425;
 }
 );
 unicode = 278;
+},
+{
+glyphname = Edotbelow;
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (186,0);
+ref = dotbelowcomb.case;
+}
+);
+width = 475;
+},
+{
+layerId = m002;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (186,0);
+ref = dotbelowcomb.case;
+}
+);
+width = 475;
+},
+{
+layerId = m003;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (186,0);
+ref = dotbelowcomb.case;
+}
+);
+width = 475;
+},
+{
+layerId = m004;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (170,0);
+ref = dotbelowcomb.case;
+}
+);
+width = 462;
+},
+{
+layerId = m005;
+shapes = (
+{
+ref = E;
+},
+{
+pos = (171,0);
+ref = dotbelowcomb.case;
+}
+);
+width = 425;
+}
+);
+unicode = 7864;
 },
 {
 glyphname = Egrave;
@@ -92869,6 +92941,32 @@ width = 600;
 }
 );
 unicode = 279;
+},
+{
+glyphname = edotbelow;
+layers = (
+{
+layerId = m01;
+width = 600;
+},
+{
+layerId = m002;
+width = 600;
+},
+{
+layerId = m003;
+width = 600;
+},
+{
+layerId = m004;
+width = 600;
+},
+{
+layerId = m005;
+width = 600;
+}
+);
+unicode = 7865;
 },
 {
 glyphname = egrave;
