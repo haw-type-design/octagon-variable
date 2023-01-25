@@ -15,6 +15,8 @@ Alexander Royter, Emma Schmalisch, Felix Willnauer, Friederike Temme, Greta Wach
 ## Specimen (Web)
 See and try *Octagon Variable* online at https://haw-type-design.github.io/octagon-variable/
 
+![IMAGE_DESCRIPTION](images/specimen-web.png)(https://haw-type-design.github.io/octagon-variable/)
+
 ## Specimen (Print)
 On the occasion of its release a 16-page printed specimen has been designed and printed on newsprint. Please get in touch for availability!
 
