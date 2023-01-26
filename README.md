@@ -1,12 +1,12 @@
 # Octagon Variable
 This is the repository of the educational type design project *Octagon Variable* developed at the HAW Hamburg in 2022.
 
-![IMAGE_DESCRIPTION](images/process.png)
+![Octagon Process](images/process.png)
 
 ## Information
 Based on *Octagon* – a wood type first shown in George Nesbitt’s *First Premium Wood Types Cut by Machinery* in 1838 – *Octagon Variable* is a reimagination of the original design by Edwin Allen as variable font in which the already present spatial illusions are pushed further. It was collaboratively redrawn with students at the design department of the Hochschule für Angewandte Wissenschaften Hamburg in 2022 as part of a first year type design introduction class under the guidance of Prof. Pierre Pané-Farré and Simon Thiefes.
 
-![IMAGE_DESCRIPTION](images/original-octagon-photo-by-david-shields.jpg)
+![The original printing blocks of Octagon](images/original-octagon-photo-by-david-shields.jpg)
 *The original printing blocks held at the Rob Roy Kelly Collection measure 8 line in size and were produced with the end-cut method.* (Photo: ©David Shields)
 
 ## Participating students
@@ -14,6 +14,8 @@ Alexander Royter, Emma Schmalisch, Felix Willnauer, Friederike Temme, Greta Wach
 
 ## Specimen (Web)
 See and try *Octagon Variable* online at https://haw-type-design.github.io/octagon-variable/
+
+[![Octagon Specimen (Web)](images/specimen-web.png)](https://haw-type-design.github.io/octagon-variable/)
 
 ## Specimen (Print)
 On the occasion of its release a 16-page printed specimen has been designed and printed on newsprint. Please get in touch for availability!
