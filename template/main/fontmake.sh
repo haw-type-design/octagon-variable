@@ -12,4 +12,3 @@ fontmake master_ufo/octagon-variable.designspace -o variable --output-dir ../../
 mv ../../export/variable/ttf/octagon-variable-VF.ttf ../../export/variable/ttf/OctagonVariableVF.ttf 
 woff2_compress ../../export/variable/ttf/OctagonVariableVF.ttf
 mv ../../export/variable/ttf/OctagonVariableVF.woff2 ../../export/variable/woff2
-cp -r ../../export/variable/woff2/OctagonVariableVF.woff2 ../../web-specimen/fonts
