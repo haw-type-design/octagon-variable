@@ -18,7 +18,9 @@ See and try *Octagon Variable* online at https://haw-type-design.github.io/octag
 [![Octagon Specimen (Web)](images/specimen-web.png)](https://haw-type-design.github.io/octagon-variable/)
 
 ## Specimen (Print)
-On the occasion of its release a 16-page printed specimen has been designed and printed on newsprint. Please get in touch for availability!
+On the occasion of its release a limited 16-page printed specimen showcasing *Octagon Variable* has been designed and printed on newsprint. Please [get in touch](mailto:pierre.pane-farre@dmi-haw-hamburg.de?subject=Octagon-Variable Printed Specimen) for availability!
+
+![octagon Variable printed specimen](images/specimen-print.png)
 
 ## References
 * Kelly, Rob Roy: *American Wood Type 1828–1900. Notes on the evolution of Decorated and Large Types*, Liber Apertus Press, 2010.
