@@ -3,9 +3,9 @@
   <advance width="789"/>
   <unicode hex="1E40"/>
   <anchor x="395" y="0" name="bottom"/>
-  <anchor x="395" y="720" name="top"/>
+  <anchor x="395" y="770" name="top"/>
   <outline>
     <component base="M"/>
-    <component base="dotaccentcomb.case" xOffset="341"/>
+    <component base="dotaccentcomb.case" xOffset="341" yOffset="50"/>
   </outline>
 </glyph>
