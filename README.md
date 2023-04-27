@@ -18,7 +18,7 @@ See and try *Octagon Variable* online at  https://haw-type-design.github.io/octa
 [![Octagon Specimen (Web)](images/specimen-web.png)](https://haw-type-design.github.io/octagon-variable/)
 
 ## Specimen (Print)
-On the occasion of its release a limited 16-page printed specimen showcasing *Octagon Variable* has been designed and printed on newsprint. Please [get in touch](mailto:pierre.pane-farre@haw-hamburg.de?subject=Octagon-Variable-Printed-Specimen&cc=simon.thiefes@dhaw-hamburg.de) for availability!
+On the occasion of its release a limited 16-page printed specimen showcasing *Octagon Variable* has been designed and printed on newsprint. Please [get in touch](mailto:pierre.pane-farre@haw-hamburg.de?subject=Octagon-Variable-Printed-Specimen&cc=simon.thiefes@haw-hamburg.de) for availability!
 
 ![Octagon Variable printed specimen](images/specimen-print.png)
 
